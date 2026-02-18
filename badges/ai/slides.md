@@ -50,15 +50,22 @@ Note: The distinction between automation and AI is important — automation foll
 
 --
 
-## Data and Workflow Terms
+## Data and Workflow Terms (1/2)
 
 - **Data** — raw facts and figures (numbers, text, images, audio) — the fuel that powers AI
 - **Database** — organized collection of structured data
 - **Variables** — named storage locations that hold data values
+- **Basic Programming** — instructions written in code that tell a computer what to do
+
+Note: These are the foundational building blocks — data is what AI learns from, programming is how you direct it.
+
+--
+
+## Data and Workflow Terms (2/2)
+
 - **Tasks** — individual units of work a system performs
 - **Triggers** — events or conditions that cause a task to start
 - **Workflows** — sequences of tasks that accomplish a larger goal
-- **Basic Programming** — instructions written in code that tell a computer what to do
 - **Prompt Engineering** — the skill of writing effective instructions for AI systems
 
 Note: The data → trigger → workflow → task chain is how almost all automation and AI systems are structured.
