@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Advancement University — Merit Badge Presentations</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bsa-tan: #f5e6c8;
+      --bsa-red: #be0000;
+      --bsa-dark: #1a1a1a;
+      --bsa-gold: #d4a017;
+      --bsa-mid: #2c2c2c;
+    }
+
+    body {
+      background: var(--bsa-dark);
+      color: var(--bsa-tan);
+      font-family: 'Inter', system-ui, sans-serif;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 3rem 1.5rem;
+    }
+
+    header {
+      text-align: center;
+      margin-bottom: 3rem;
+    }
+
+    header .fleur {
+      font-size: 3rem;
+      display: block;
+      margin-bottom: 0.5rem;
+    }
+
+    header h1 {
+      font-size: 2.2rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+    }
+
+    header p {
+      color: var(--bsa-gold);
+      font-size: 1rem;
+      margin-top: 0.5rem;
+    }
+
+    .badges {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 1.5rem;
+      width: 100%;
+      max-width: 960px;
+    }
+
+    .badge-card {
+      background: var(--bsa-mid);
+      border: 1px solid rgba(245, 230, 200, 0.12);
+      border-radius: 12px;
+      padding: 2rem;
+      text-decoration: none;
+      color: var(--bsa-tan);
+      transition: transform 0.15s ease, border-color 0.15s ease;
+      display: flex;
+      flex-direction: column;
+      gap: 0.75rem;
+    }
+
+    .badge-card:hover {
+      transform: translateY(-3px);
+      border-color: var(--bsa-gold);
+    }
+
+    .badge-card .icon {
+      font-size: 2.5rem;
+    }
+
+    .badge-card h2 {
+      font-size: 1.25rem;
+      font-weight: 700;
+    }
+
+    .badge-card p {
+      font-size: 0.875rem;
+      color: rgba(245, 230, 200, 0.65);
+      line-height: 1.5;
+    }
+
+    .badge-card .cta {
+      margin-top: auto;
+      padding-top: 1rem;
+      font-size: 0.875rem;
+      font-weight: 600;
+      color: var(--bsa-gold);
+    }
+
+    footer {
+      margin-top: 4rem;
+      font-size: 0.8rem;
+      color: rgba(245, 230, 200, 0.35);
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <span class="fleur">⚜️</span>
+    <h1>Advancement University</h1>
+    <p>BSA Merit Badge Presentations</p>
+  </header>
+
+  <main class="badges">
+    <a class="badge-card" href="badges/programming/">
+      <div class="icon">💻</div>
+      <h2>Programming</h2>
+      <p>Explore programming languages, intellectual property, hands-on projects, and careers in software.</p>
+      <div class="cta">Open presentation →</div>
+    </a>
+
+    <a class="badge-card" href="badges/ai/">
+      <div class="icon">🤖</div>
+      <h2>Artificial Intelligence</h2>
+      <p>Discover AI and automation concepts, ethics, deepfakes, prompt engineering, and career pathways.</p>
+      <div class="cta">Open presentation →</div>
+    </a>
+
+    <a class="badge-card" href="badges/cybersecurity/">
+      <div class="icon">🔐</div>
+      <h2>Cybersecurity</h2>
+      <p>Learn about cyber threats, defenses, cryptography, IoT, and how to protect yourself online.</p>
+      <div class="cta">Open presentation →</div>
+    </a>
+  </main>
+
+  <footer>
+    <p>Hosted on GitHub Pages &bull; Built with <a href="https://revealjs.com" style="color: inherit;">reveal.js</a></p>
+  </footer>
+</body>
+</html>

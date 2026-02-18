@@ -1,0 +1,153 @@
+/* Advancement University — BSA Merit Badge Presentations */
+/* Extends reveal.js "black" theme */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Fira+Code:wght@400;500&display=swap');
+
+:root {
+  --bsa-tan: #f5e6c8;
+  --bsa-red: #be0000;
+  --bsa-dark: #1a1a1a;
+  --bsa-gold: #d4a017;
+  --bsa-green: #2d5a27;
+  --bsa-mid: #2c2c2c;
+}
+
+.reveal {
+  font-family: 'Inter', system-ui, sans-serif;
+  color: var(--bsa-tan);
+}
+
+.reveal .slides {
+  text-align: left;
+}
+
+/* Headings */
+.reveal h1,
+.reveal h2,
+.reveal h3 {
+  font-family: 'Inter', system-ui, sans-serif;
+  font-weight: 700;
+  color: var(--bsa-tan);
+  text-transform: none;
+  letter-spacing: -0.02em;
+}
+
+.reveal h1 {
+  font-size: 2.2em;
+  border-bottom: 3px solid var(--bsa-red);
+  padding-bottom: 0.2em;
+}
+
+.reveal h2 {
+  font-size: 1.6em;
+  color: var(--bsa-gold);
+}
+
+.reveal h3 {
+  font-size: 1.2em;
+  color: var(--bsa-tan);
+}
+
+/* Title slides */
+.reveal .title-slide h1 {
+  border-bottom: none;
+  text-align: center;
+  font-size: 2.5em;
+}
+
+/* Lists */
+.reveal ul,
+.reveal ol {
+  margin-left: 1.2em;
+}
+
+.reveal li {
+  margin: 0.4em 0;
+  line-height: 1.5;
+}
+
+/* Code */
+.reveal code {
+  font-family: 'Fira Code', monospace;
+  background: rgba(255,255,255,0.1);
+  padding: 0.1em 0.4em;
+  border-radius: 4px;
+  font-size: 0.85em;
+}
+
+/* Blockquotes — used for discussion prompts */
+.reveal blockquote {
+  background: rgba(212, 160, 23, 0.15);
+  border-left: 4px solid var(--bsa-gold);
+  padding: 0.8em 1.2em;
+  border-radius: 0 6px 6px 0;
+  font-style: normal;
+  width: 95%;
+  box-shadow: none;
+}
+
+/* Progress bar */
+.reveal .progress {
+  background: rgba(255,255,255,0.1);
+  color: var(--bsa-red);
+}
+
+/* Slide number */
+.reveal .slide-number {
+  color: var(--bsa-gold);
+  background: transparent;
+}
+
+/* Links */
+.reveal a {
+  color: var(--bsa-gold);
+  text-decoration: underline;
+}
+
+/* Fragment highlights */
+.reveal .fragment.highlight-red {
+  color: var(--bsa-red);
+}
+
+/* Badge label chip */
+.badge-label {
+  display: inline-block;
+  background: var(--bsa-red);
+  color: white;
+  padding: 0.2em 0.7em;
+  border-radius: 20px;
+  font-size: 0.6em;
+  font-weight: 600;
+  vertical-align: middle;
+  margin-left: 0.5em;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+/* Requirement number callout */
+.req-num {
+  display: inline-block;
+  background: var(--bsa-gold);
+  color: var(--bsa-dark);
+  width: 1.8em;
+  height: 1.8em;
+  line-height: 1.8em;
+  text-align: center;
+  border-radius: 50%;
+  font-weight: 700;
+  font-size: 0.8em;
+  margin-right: 0.4em;
+}
+
+/* Two-column layout helper */
+.cols {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2em;
+  align-items: start;
+}
+
+/* Centered content */
+.reveal .center {
+  text-align: center;
+}

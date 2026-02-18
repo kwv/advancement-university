@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Programming Merit Badge — Advancement University</title>
+
+  <!-- reveal.js core -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5/dist/reset.css" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5/dist/reveal.css" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5/dist/theme/black.css" />
+
+  <!-- Syntax highlighting -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5/plugin/highlight/monokai.css" />
+
+  <!-- Shared BSA theme (overrides) -->
+  <link rel="stylesheet" href="../../_assets/theme.css" />
+</head>
+<body>
+  <div class="reveal">
+    <div class="slides">
+      <section
+        data-markdown="slides.md"
+        data-separator="^\n---\n"
+        data-separator-vertical="^\n--\n"
+        data-separator-notes="^Note:"
+        data-charset="utf-8">
+      </section>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/reveal.js@5/dist/reveal.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/reveal.js@5/plugin/markdown/markdown.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/reveal.js@5/plugin/highlight/highlight.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/reveal.js@5/plugin/notes/notes.js"></script>
+
+  <script>
+    Reveal.initialize({
+      hash: true,
+      slideNumber: 'c/t',
+      plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ],
+      // Markdown loaded externally requires a web server (not file://)
+    });
+  </script>
+</body>
+</html>
