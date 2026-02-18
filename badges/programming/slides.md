@@ -19,7 +19,7 @@ Note: Welcome scouts! Today we're exploring programming — one of the most in-d
 ---
 
 ## Requirement 1
-# Safety
+# 🛡️ Safety
 
 --
 
@@ -57,7 +57,7 @@ Note: Ask scouts: "Have any of you ever had sore wrists or headaches after a lon
 ---
 
 ## Requirement 2
-# History of Programming
+# ⏳ History of Programming
 
 --
 
@@ -79,12 +79,12 @@ Note: Let scouts speculate before revealing history. This builds curiosity.
 
 | Year | Milestone |
 |------|-----------|
-| 1843 | Ada Lovelace writes the first algorithm — for a machine that didn't exist yet |
+| 1843 | 💡 Ada Lovelace writes the first algorithm — for a machine that didn't exist yet |
 | 1940s | Machine code — raw binary instructions, tedious and error-prone |
 | 1950s | Assembly language — first step toward human-readable code |
-| 1957 | FORTRAN — first high-level language, built for science and math |
+| 1957 | 💡 FORTRAN — first high-level language, built for science and math |
 | 1972 | C — still powers operating systems and hardware today |
-| 1991 | Python — designed to be readable as plain English |
+| 1991 | 💡 Python — designed to be readable as plain English |
 | 1995 | Java, JavaScript, and PHP all released the same year |
 | 2009 | Go — built by Google for modern, scalable systems |
 
@@ -128,7 +128,7 @@ Be ready to talk about:
 ---
 
 ## Requirement 3
-# General Knowledge
+# 🧠 General Knowledge
 
 --
 
@@ -156,11 +156,11 @@ Note: Scouts should build their own list — these are examples, not the answer.
 
 Examples to get you thinking:
 
-- **Smartphone** — apps, GPS, camera processing
-- **Microwave** — timing sequences and power control
-- **Car** — engine management, antilock brakes, navigation
-- **Smart TV** — streaming, recommendations, interface
-- **Traffic lights** — timing cycles, sensors, coordination
+- 📱 **Smartphone** — apps, GPS, camera processing
+- 🍽️ **Microwave** — timing sequences and power control
+- 🚗 **Car** — engine management, antilock brakes, navigation
+- 📺 **Smart TV** — streaming, recommendations, interface
+- 🚦 **Traffic lights** — timing cycles, sensors, coordination
 
 > Describe **3 devices**: what they do, what the program controls, and what would happen without it.
 
@@ -169,31 +169,44 @@ Note: Push scouts beyond obvious computers. Almost everything electronic has fir
 ---
 
 ## Requirement 4
-# Intellectual Property
+# ⚖️ Intellectual Property
 
 --
 
-## 4a — Four Types of IP That Protect Software
+## 4a — Four Types of IP (1/2)
 
-**Copyright**
+**©️ Copyright**
 - Automatic the moment you create something
 - Protects the specific code you wrote
 - Lasts your lifetime plus 70 years
 
-**Patent**
+**📜 Patent**
 - Protects an invention or novel method
 - Must be applied for — expensive and slow
 - Example: a new compression algorithm or data structure
 
-**Trademark**
+> Ask yourself: "Which type automatically protects the code you write for this badge?" (Copyright!)
+
+Note: Ask scouts: "Which type automatically protects the code you write for this badge?" (Copyright — no registration needed!)
+
+--
+
+## 4a — Four Types of IP (2/2)
+
+**™️ Trademark**
 - Protects names, logos, and brands
 - Example: the Python logo, the name "Java"
 
-**Trade Secret**
+**🤫 Trade Secret**
 - Kept confidential — never registered publicly
 - Example: Google's search ranking algorithm
 
-Note: Ask scouts: "Which type automatically protects the code you write for this badge?" (Copyright — no registration needed!)
+| Type | Protection | Registration? |
+|------|-----------|---------------|
+| Copyright | Your specific code | Automatic |
+| Patent | Inventions & methods | Required (expensive) |
+| Trademark | Names, logos, brands | Required |
+| Trade Secret | Confidential info | Never public |
 
 --
 
@@ -230,17 +243,20 @@ Note: This surprises most people. Pull up a Terms of Service agreement and show 
 
 > Many tools blur the lines — VS Code is both free *and* open source!
 
-**Why respecting terms of use matters:**
-- Freeware: using it commercially when the license says personal-only is theft
-- Open source: if you modify and distribute, you may be required to share your changes
-- Commercial: copying or sharing licenses violates contracts and copyright law
+--
+
+## 4c — Why Respecting Terms of Use Matters
+
+- 🚫 **Freeware:** using it commercially when the license says personal-only is theft
+- 🔄 **Open source:** if you modify and distribute, you may be required to share your changes
+- 💰 **Commercial:** copying or sharing licenses violates contracts and copyright law
 
 Note: Discussion: "If you write a program, which category would you want it to be? Why?" Follow up: "What happens if someone violates the terms of use — to the user, and to the developer?"
 
 ---
 
 ## Requirement 5
-# Your Programming Projects
+# 💻 Your Programming Projects
 
 The main event.
 
@@ -311,9 +327,9 @@ Note: Emphasize: complexity is not the goal. Demonstrating understanding of inpu
 
 **Three types of errors you'll encounter:**
 
-- **Syntax error** — you wrote something the language can't understand (like a typo in a keyword)
-- **Logic error** — the program runs but gives wrong answers
-- **Runtime error** — the program crashes while running
+- 🔴 **Syntax error** — you wrote something the language can't understand (like a typo in a keyword)
+- 🟡 **Logic error** — the program runs but gives wrong answers
+- 🟠 **Runtime error** — the program crashes while running
 
 **Strategies that work:**
 - Read error messages carefully — they usually include the line number
@@ -363,7 +379,7 @@ Be ready to answer these questions for each project:
 ---
 
 ## Requirement 6
-# Careers
+# 🎯 Careers
 
 **Choose ONE of the following:**
 
@@ -397,14 +413,18 @@ How could programming support something you already love?
 - Program robots, drones, or smart home devices for fun
 - Make mods for games you already play
 
-Research:
+--
+
+## Option B (continued)
+
+**Research:**
 - Training resources available (free and paid)
 - Typical expenses (hardware, software, classes)
 - Organizations and communities you could join
 
-Then discuss with your counselor:
-- What **short-term goals** could you achieve in the next 6–12 months?
-- What **long-term goals** might this hobby lead to in 3–5 years?
+**Then discuss with your counselor:**
+- What **short-term goals** could you achieve in the next 6-12 months?
+- What **long-term goals** might this hobby lead to in 3-5 years?
 
 Note: This option is great for scouts who aren't targeting a tech career but want to apply programming to their passions.
 
@@ -430,12 +450,12 @@ Note: This option is great for scouts who aren't targeting a tech career but wan
 
 Everything you need to demonstrate or discuss with your counselor:
 
-- **Req 1** — Watched the Digital Safety video; can discuss RSI and eyestrain prevention
-- **Req 2** — Can discuss programming history with at least 3 milestones
-- **Req 3** — Created a list of 5 languages and industries; described 3 programmed devices
-- **Req 4** — Can explain 4 types of IP; licensing vs. owning; freeware/open source/commercial
-- **Req 5** — Completed 3 programs in 3 different languages — all debugged, demonstrated, and explained
-- **Req 6** — Researched one career or hobby application and discussed with counselor
+- ✅ **Req 1** — Watched the Digital Safety video; can discuss RSI and eyestrain prevention
+- ✅ **Req 2** — Can discuss programming history with at least 3 milestones
+- ✅ **Req 3** — Created a list of 5 languages and industries; described 3 programmed devices
+- ✅ **Req 4** — Can explain 4 types of IP; licensing vs. owning; freeware/open source/commercial
+- ✅ **Req 5** — Completed 3 programs in 3 different languages — all debugged, demonstrated, and explained
+- ✅ **Req 6** — Researched one career or hobby application and discussed with counselor
 
 Note: Use this as a checklist with scouts before signing off. Ask them to speak to each item in their own words.
 

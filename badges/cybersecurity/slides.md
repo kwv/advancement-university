@@ -22,7 +22,7 @@ Note: Welcome scouts! Cybersecurity is one of the most critical fields of our ti
 ---
 
 ## Requirement 1
-# Safety
+# 🛡️ Safety
 
 --
 
@@ -49,11 +49,15 @@ Note: Confirm with scouts that they have watched it before this session.
 - Games and gaming platforms
 - Search history, location data, purchase history
 
+--
+
+## 1b — How to Protect Your Footprint
+
 **How to protect it:**
-- Review and tighten privacy settings on every platform you use
-- Check app permissions — does a flashlight app really need your contacts?
-- Think before posting — the internet has a long memory
-- Use different usernames across platforms
+- 🔒 Review and tighten privacy settings on every platform you use
+- 📱 Check app permissions — does a flashlight app really need your contacts?
+- 🤔 Think before posting — the internet has a long memory
+- 👤 Use different usernames across platforms
 
 **Live demo:** Show privacy settings on one social media app together.
 
@@ -73,17 +77,23 @@ Note: Pull up Instagram, TikTok, or whatever platform scouts use most. Walk thro
 - Use ergonomic keyboards and mice when possible
 - Stretch your hands, wrists, and neck regularly
 
+--
+
+## 1c — Mobile Device Physical Safety
+
 **Mobile Device Physical Safety**
-- Don't walk while looking at your phone
-- Never use devices while driving — even at slow speeds
-- Be aware of your surroundings when using headphones in public
+- 🚶 Don't walk while looking at your phone
+- 🚗 Never use devices while driving — even at slow speeds
+- 🎧 Be aware of your surroundings when using headphones in public
+
+> These are genuinely life-and-death safety habits.
 
 Note: The distracted walking and driving points are genuinely life-and-death. Be direct about this.
 
 ---
 
 ## Requirement 2
-# Ethics
+# ⚖️ Ethics
 
 --
 
@@ -139,7 +149,7 @@ Note: These are real-world ethical dilemmas that security professionals face reg
 ---
 
 ## Requirement 3
-# Fundamentals
+# 🏗️ Fundamentals
 
 --
 
@@ -155,10 +165,16 @@ Note: These are real-world ethical dilemmas that security professionals face reg
 - The backbone of the internet and every organization
 - Threat: interception, denial of service, unauthorized routing
 
+--
+
+## 3a — Industrial Control Systems
+
 **Industrial Control Systems (ICS)**
 - Power grids, water treatment, hospital equipment, traffic systems
 - Control physical infrastructure that people depend on to live
 - Threat: sabotage with potentially life-threatening consequences
+
+> The 2021 Florida water treatment plant attack is a real example — an attacker tried to poison the water supply remotely.
 
 Note: The ICS point is sobering — cyberattacks on water treatment plants and power grids have happened. The 2021 Florida water treatment plant attack is a well-documented real example.
 
@@ -168,20 +184,11 @@ Note: The ICS point is sobering — cyberattacks on water treatment plants and p
 
 The three goals that all cybersecurity is built to protect:
 
-**Confidentiality**
-- Only authorized people can access the information
-- Protected by: encryption, access controls, passwords, MFA
-- Violated by: data breaches, eavesdropping, stolen credentials
-
-**Integrity**
-- Information is accurate and hasn't been tampered with
-- Protected by: checksums, digital signatures, audit logs
-- Violated by: data manipulation, ransomware, corrupted files
-
-**Availability**
-- Systems and data are accessible when authorized users need them
-- Protected by: backups, redundancy, DDoS protection
-- Violated by: ransomware, denial-of-service attacks, hardware failures
+| | What It Protects | Protected By | Violated By |
+|---|---|---|---|
+| 🔒 **Confidentiality** | Only authorized people can access the information | Encryption, access controls, passwords, MFA | Data breaches, eavesdropping, stolen credentials |
+| ✏️ **Integrity** | Information is accurate and hasn't been tampered with | Checksums, digital signatures, audit logs | Data manipulation, ransomware, corrupted files |
+| ⚡ **Availability** | Systems and data are accessible when needed | Backups, redundancy, DDoS protection | Ransomware, denial-of-service, hardware failures |
 
 > Every cybersecurity threat, control, and response maps back to one or more of these three goals.
 
@@ -190,7 +197,7 @@ Note: Have scouts try to categorize the threats they've heard of (ransomware, ph
 ---
 
 ## Requirement 4
-# Threats, Vulnerabilities & Attacks
+# ⚠️ Threats, Vulnerabilities & Attacks
 
 --
 
@@ -208,7 +215,19 @@ Note: Have scouts try to categorize the threats they've heard of (ransomware, ph
 - The actual technique or code used to take advantage of a vulnerability
 - Example: the SQL injection attack string the hacker types into the form
 
-> The relationship: a **threat** uses an **exploit** to attack a **vulnerability**
+--
+
+## 4a — The Lock Analogy
+
+Think of it like a physical lock:
+
+| Cyber Term | Lock Analogy |
+|---|---|
+| **Vulnerability** | 🔓 A weak lock on your door |
+| **Threat** | 🦹 A burglar who knows your neighborhood |
+| **Exploit** | 🔧 The specific lockpick technique they use |
+
+> A **threat** uses an **exploit** to attack a **vulnerability**.
 
 Note: Use a lock analogy: vulnerability = weak lock, threat = burglar who knows your neighborhood, exploit = the specific lockpick technique they use.
 
@@ -261,11 +280,15 @@ Note: This is immediately actionable advice that scouts can use today. Ask if an
 - Using spoofed communications to trick you into giving up credentials or data
 - Variations: smishing (SMS), vishing (voice), spear phishing (targeted)
 
+--
+
+## 4d — Recognizing and Preventing Phishing
+
 **How to recognize it:**
-- Sense of urgency ("Act NOW or your account will be closed!")
-- Mismatched sender addresses (support@amaz0n.com)
-- Generic greetings ("Dear Customer" instead of your name)
-- Suspicious links — hover before you click
+- 🚨 Sense of urgency ("Act NOW or your account will be closed!")
+- 📧 Mismatched sender addresses (support@amaz0n.com)
+- 👤 Generic greetings ("Dear Customer" instead of your name)
+- 🔗 Suspicious links — hover before you click
 
 **How to protect yourself:**
 - Never click links in unsolicited emails — go directly to the website
@@ -297,11 +320,11 @@ Note: Mr. Robot is widely considered the most technically accurate cybersecurity
 Create a list of **all the ways someone could access your personal information or devices**.
 
 **Think about:**
-- Every device you own with internet access
-- Every account you have (email, social, gaming, streaming)
-- Every app on your phone and what data it can access
-- Public information about you (social media, school directory, yearbook)
-- Physical access points (your unlocked phone, your laptop left open)
+- 💻 Every device you own with internet access
+- 🔑 Every account you have (email, social, gaming, streaming)
+- 📱 Every app on your phone and what data it can access
+- 🌐 Public information about you (social media, school directory, yearbook)
+- 🚪 Physical access points (your unlocked phone, your laptop left open)
 
 > The full picture often surprises people. Most of us have a much larger attack surface than we realize.
 
@@ -310,7 +333,7 @@ Note: This exercise is genuinely eye-opening. Have scouts actually list theirs o
 ---
 
 ## Requirement 5
-# Cyber Defenses
+# 🔒 Cyber Defenses
 
 --
 
@@ -374,7 +397,19 @@ Note: Do this live with scouts if possible. Walk through the process on a device
 
 ## 5c — System Security (Choose THREE)
 
-**You need to complete THREE of the following:**
+**You need to complete THREE of the following nine options:**
+
+| # | Activity |
+|---|----------|
+| 1 | 🔑 Create a strong password |
+| 2 | 📱 Set up multi-factor authentication |
+| 3 | 🗄️ Install and use a password manager |
+| 4 | 🛡️ Run a virus scan |
+| 5 | 🖥️ View running processes (CLI) |
+| 6 | 🌐 View open network connections (CLI) |
+| 7 | 💾 Back up a mobile device |
+| 8 | 📡 Create a home network security checklist |
+| 9 | 🔍 Identify and fix home vulnerabilities |
 
 --
 
@@ -569,7 +604,7 @@ Note: Have scouts actually look at their home router settings (with parent permi
 ---
 
 ## Requirement 6
-# Cryptography
+# 🔐 Cryptography
 
 --
 
@@ -685,7 +720,7 @@ Note: GPG Keychain (macOS) and Gpg4win (Windows) make PGP more accessible. This 
 ---
 
 ## Requirement 7
-# Connected Devices & IoT
+# 📡 Connected Devices & IoT
 
 --
 
@@ -700,24 +735,28 @@ Describe **4 devices** — for each, explain:
 
 --
 
-## Four IoT Devices to Explore
+## Four IoT Devices to Explore (1/2)
 
-**Smart Thermostat (e.g., Nest)**
+**🌡️ Smart Thermostat (e.g., Nest)**
 - Useful: remote control, energy savings, learning your schedule
 - Risks: reveals when you're home or away; vulnerable to hijacking
 - Protection: strong password, network segmentation, firmware updates
 
-**Smart TV**
+**📺 Smart TV**
 - Useful: streaming, voice control, app ecosystem
 - Risks: built-in microphones and cameras; often poorly secured; collects viewing data
 - Protection: disable microphone/camera when not in use; keep firmware updated
 
-**Home Security Camera**
+--
+
+## Four IoT Devices to Explore (2/2)
+
+**📹 Home Security Camera**
 - Useful: monitor your home remotely; deter crime
 - Risks: video feed can be intercepted if poorly secured; some brands have had mass breaches
 - Protection: strong unique password; two-factor authentication; buy from reputable brands
 
-**Gaming Console**
+**🎮 Gaming Console**
 - Useful: online multiplayer, digital purchases, media streaming
 - Risks: stores payment info; mic and camera can be accessed; child accounts may be exposed
 - Protection: parental controls; unique password; review connected app permissions
@@ -739,7 +778,7 @@ Note: The Mirai botnet (2016) hijacked 600,000+ IoT devices (mostly cameras and 
 ---
 
 ## Requirement 8
-# Cybersecurity Activities
+# 🏆 Cybersecurity Activities
 
 **Choose ONE of the following:**
 
@@ -807,9 +846,14 @@ Note: This is an excellent option for scouts who want to work toward the Public 
 ---
 
 ## Requirement 9
-# Careers
+# 🎯 Careers
 
 **Choose ONE of the following:**
+
+--
+
+# 3.5 Million
+### Unfilled cybersecurity jobs worldwide — and growing
 
 --
 
@@ -859,7 +903,7 @@ Note: Good targets: local banks, hospitals, tech companies, government agencies 
 | Threat Intelligence Analyst | Track adversaries and predict future attacks |
 | CISO (Chief Information Security Officer) | Lead an organization's entire security strategy |
 
-> There are **3.5 million unfilled cybersecurity jobs** globally. The field desperately needs new talent.
+> The field desperately needs new talent — this could be you.
 
 ---
 
@@ -867,15 +911,15 @@ Note: Good targets: local banks, hospitals, tech companies, government agencies 
 
 Everything you need to demonstrate or discuss:
 
-- **Req 1** — Watched Digital Safety video; explained digital footprint protection; discussed physical health and safety
-- **Req 2** — Related 3 Scout Law points to internet behavior; discussed ethical scenarios
-- **Req 3** — Described 3 types of systems needing protection; explained the CIA Triad
-- **Req 4** — Defined vulnerability/threat/exploit; researched one malware type; identified Wi-Fi risks; explained spoofing/phishing; completed current events option; created attack surface list
-- **Req 5** — Described 3 defensive technologies; explained and demonstrated updates; completed THREE system security activities
-- **Req 6** — Researched 3 encryption uses; showed how to verify HTTPS; completed ONE hands-on cryptography activity
-- **Req 7** — Described 4 IoT devices: usefulness, risks, and protections
-- **Req 8** — Completed ONE cybersecurity activity (competition research, participation, or presentation)
-- **Req 9** — Researched 3 careers and one in depth, OR visited a cybersecurity organization
+- ✅ **Req 1** — Watched Digital Safety video; explained digital footprint protection; discussed physical health and safety
+- ✅ **Req 2** — Related 3 Scout Law points to internet behavior; discussed ethical scenarios
+- ✅ **Req 3** — Described 3 types of systems needing protection; explained the CIA Triad
+- ✅ **Req 4** — Defined vulnerability/threat/exploit; researched one malware type; identified Wi-Fi risks; explained spoofing/phishing; completed current events option; created attack surface list
+- ✅ **Req 5** — Described 3 defensive technologies; explained and demonstrated updates; completed THREE system security activities
+- ✅ **Req 6** — Researched 3 encryption uses; showed how to verify HTTPS; completed ONE hands-on cryptography activity
+- ✅ **Req 7** — Described 4 IoT devices: usefulness, risks, and protections
+- ✅ **Req 8** — Completed ONE cybersecurity activity (competition research, participation, or presentation)
+- ✅ **Req 9** — Researched 3 careers and one in depth, OR visited a cybersecurity organization
 
 Note: Walk through this checklist with scouts before final sign-off. Have them speak to each item.
 

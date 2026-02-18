@@ -21,7 +21,7 @@ Note: Welcome scouts! AI is one of the fastest-moving fields on the planet right
 ---
 
 ## Requirement 1
-# Key Concepts & Vocabulary
+# 🔑 Key Concepts & Vocabulary
 
 --
 
@@ -89,7 +89,7 @@ Note: Go through these quickly as a verbal check. Don't dwell — the rest of th
 ---
 
 ## Requirement 2
-# AI Basics
+# 🤖 AI Basics
 
 --
 
@@ -97,16 +97,26 @@ Note: Go through these quickly as a verbal check. Don't dwell — the rest of th
 
 **Can you name 10 examples?** Here are some to get started:
 
-1. Voice assistants (Siri, Alexa, Google Assistant)
-2. Social media feed algorithms (what shows up first)
-3. Spam filters in email
-4. Face unlock on your phone
-5. Navigation apps that reroute around traffic
-6. Streaming recommendations (Netflix, Spotify, YouTube)
-7. Autocorrect and predictive text
-8. Smart photo tagging ("here are photos of Mom")
-9. Fraud detection on your parents' credit cards
-10. Search engine results ranking
+<div class="cols">
+<div>
+
+- 🗣️ Voice assistants (Siri, Alexa)
+- 📱 Social media feed algorithms
+- 📧 Spam filters in email
+- 🔐 Face unlock on your phone
+- 🗺️ Navigation rerouting around traffic
+
+</div>
+<div>
+
+- 🎵 Streaming recommendations
+- ⌨️ Autocorrect and predictive text
+- 📷 Smart photo tagging
+- 💳 Fraud detection on credit cards
+- 🔍 Search engine results ranking
+
+</div>
+</div>
 
 Note: Ask scouts to name their own examples before revealing this list. They'll likely name several that aren't here.
 
@@ -116,11 +126,11 @@ Note: Ask scouts to name their own examples before revealing this list. They'll 
 
 **5 examples:**
 
-1. Resume screening software (reads thousands of applications)
-2. Customer service chatbots
-3. Predictive maintenance (factories detect machine failures before they happen)
-4. Medical imaging analysis (AI spots tumors in X-rays)
-5. Supply chain optimization (predicting what to stock and when)
+1. 📄 Resume screening software (reads thousands of applications)
+2. 💬 Customer service chatbots
+3. 🏭 Predictive maintenance (factories detect machine failures before they happen)
+4. 🏥 Medical imaging analysis (AI spots tumors in X-rays)
+5. 📦 Supply chain optimization (predicting what to stock and when)
 
 Note: The medical imaging example is particularly powerful — AI can outperform radiologists on specific tasks. Ask: "Does that mean doctors will be replaced?"
 
@@ -130,11 +140,11 @@ Note: The medical imaging example is particularly powerful — AI can outperform
 
 **5 examples:**
 
-1. Plagiarism detectors (Turnitin)
-2. Personalized learning platforms (Khan Academy's adaptive exercises)
-3. AI writing assistants (grammar checkers, suggestions)
-4. Automated grading of multiple-choice and even short-answer questions
-5. Language learning apps with speech recognition (Duolingo)
+1. 📝 Plagiarism detectors (Turnitin)
+2. 🎯 Personalized learning platforms (Khan Academy's adaptive exercises)
+3. ✍️ AI writing assistants (grammar checkers, suggestions)
+4. ✅ Automated grading of multiple-choice and even short-answer questions
+5. 🌍 Language learning apps with speech recognition (Duolingo)
 
 Note: This is personal for scouts. Ask them which of these they've actually used.
 
@@ -444,7 +454,7 @@ Note: Scouts can use these or research their own. Encourage them to include one 
 ---
 
 ## Requirement 3
-# Automation Basics
+# ⚙️ Automation Basics
 
 --
 
@@ -452,16 +462,26 @@ Note: Scouts can use these or research their own. Encourage them to include one 
 
 **Can you name 10 examples?**
 
-1. Automatic dishwasher cycle
-2. Thermostat that adjusts temperature on a schedule
-3. Car cruise control
-4. Automatic bill payment
-5. Email auto-reply ("I'm on vacation...")
-6. Elevator floor selection and door timing
-7. Vending machines
-8. ATM transactions
-9. Automatic street lights (on at dusk, off at dawn)
-10. Car assembly robots in factories
+<div class="cols">
+<div>
+
+- 🍽️ Automatic dishwasher cycle
+- 🌡️ Thermostat on a schedule
+- 🚗 Car cruise control
+- 💵 Automatic bill payment
+- 📧 Email auto-reply
+
+</div>
+<div>
+
+- 🛗 Elevator floor selection
+- 🥤 Vending machines
+- 🏧 ATM transactions
+- 💡 Automatic street lights
+- 🤖 Car assembly robots
+
+</div>
+</div>
 
 Note: The line between automation and AI can be blurry — that's intentional. Use examples to reinforce the distinction: automation follows rules, AI learns.
 
@@ -527,27 +547,34 @@ Create a timeline with **5 milestones** in automation development.
 ---
 
 ## Requirement 4
-# Ethics in AI
+# ⚖️ Ethics in AI
 
 --
 
-## 4a — Ethical Concerns in AI
+## 4a — Ethical Concerns: Bias & Privacy
 
-**Bias**
+**🎯 Bias**
 - AI learns from data — if the data is biased, the AI is biased
 - Example: facial recognition that works worse for darker skin tones
 - Why it happens: training data didn't represent everyone equally
 
-**Privacy**
+**🔒 Privacy**
 - AI systems collect and analyze enormous amounts of personal data
 - Who owns that data? Who can access it? How long is it kept?
 - Example: smart speakers always "listening" for wake words
 
-**AI Decision-Making**
+Note: These are not abstract concerns — they affect real people. The loan denial and parole examples are real controversies.
+
+--
+
+## 4a — Ethical Concerns: AI Decision-Making
+
+**🤖 AI Decision-Making**
 - When AI makes decisions about jobs, loans, parole, medical care — who is accountable?
 - Can you appeal a decision made by an algorithm?
+- Should there always be a human in the loop for high-stakes decisions?
 
-Note: These are not abstract concerns — they affect real people. The loan denial and parole examples are real controversies.
+> As AI gets more powerful, these questions become more urgent — not less.
 
 --
 
@@ -605,7 +632,7 @@ Note: Some philosophers argue the Turing Test only measures the ability to imita
 ---
 
 ## Requirement 5
-# Deepfakes
+# 🎭 Deepfakes
 
 --
 
@@ -618,11 +645,17 @@ Note: Some philosophers argue the Turing Test only measures the ability to imita
 - It learns to map their facial movements, voice patterns, expressions
 - It can then generate convincing fake video of that person
 
+--
+
+## 5a — How Deepfakes Affect Individuals
+
 **How it can affect an individual:**
-- Damage to reputation — fake videos can go viral
-- Emotional harm — seeing yourself in fabricated scenarios
-- Financial harm — fake audio used in scams ("grandparent scams")
-- Trust erosion — people stop believing *any* video evidence
+- 😰 Damage to reputation — fake videos can go viral
+- 💔 Emotional harm — seeing yourself in fabricated scenarios
+- 💸 Financial harm — fake audio used in scams ("grandparent scams")
+- ❓ Trust erosion — people stop believing *any* video evidence
+
+> The "grandparent scam" — AI mimicking a grandchild's voice to request money — is an active and growing threat.
 
 Note: Show scouts a deepfake detection tool if possible. The FaceForensics++ dataset has examples. The "grandparent scam" (AI mimicking a grandchild's voice to request money) is an active threat.
 
@@ -650,7 +683,7 @@ Note: Emphasize that this is not a "just ignore it" situation. Deepfakes used to
 ---
 
 ## Requirement 6
-# Developing AI Skills
+# 🛠️ Developing AI Skills
 
 --
 
@@ -715,6 +748,10 @@ Format:     Please respond in [format/length/style].
 Constraint: Do not [limitation].
 ```
 
+--
+
+## 6d — Example Prompts
+
 **Example 1 — History paper:**
 ```
 Context:    I am a 10th grader writing a history paper.
@@ -746,7 +783,7 @@ Note: Have scouts write their own prompt for a real assignment they currently ha
 ---
 
 ## Requirement 7
-# Practical Application
+# 🚀 Practical Application
 
 **Choose ONE of the following:**
 
@@ -795,7 +832,7 @@ Note: Teaching something is the best way to prove you understand it. This option
 ---
 
 ## Requirement 8
-# Career Exploration
+# 🎯 Career Exploration
 
 **Choose ONE of the following:**
 
@@ -856,14 +893,14 @@ Note: LinkedIn is a great resource for finding professionals willing to do infor
 
 Everything you need to demonstrate or discuss:
 
-- **Req 1** — Can define all 16 key terms in your own words
-- **Req 2** — Named AI examples in everyday life, workplace, and school; played "AI or Not?"; created AI timeline
-- **Req 3** — Named automation examples in everyday life, workplace, and school; explained why automation matters; created automation timeline
-- **Req 4** — Researched ethical concerns; played "What Would You Do?"; wrote personal AI guidelines; explained Turing Test
-- **Req 5** — Can explain what a deepfake is and what to do if affected
-- **Req 6** — Discussed AI learning process; named 5 communication methods; explained prompt engineering; demonstrated 3 strong prompts
-- **Req 7** — Completed project or taught a lesson on AI
-- **Req 8** — Researched AI careers or interviewed a professional
+- ✅ **Req 1** — Can define all 16 key terms in your own words
+- ✅ **Req 2** — Named AI examples in everyday life, workplace, and school; played "AI or Not?"; created AI timeline
+- ✅ **Req 3** — Named automation examples in everyday life, workplace, and school; explained why automation matters; created automation timeline
+- ✅ **Req 4** — Researched ethical concerns; played "What Would You Do?"; wrote personal AI guidelines; explained Turing Test
+- ✅ **Req 5** — Can explain what a deepfake is and what to do if affected
+- ✅ **Req 6** — Discussed AI learning process; named 5 communication methods; explained prompt engineering; demonstrated 3 strong prompts
+- ✅ **Req 7** — Completed project or taught a lesson on AI
+- ✅ **Req 8** — Researched AI careers or interviewed a professional
 
 Note: Use this as a final checklist with scouts. Have them speak to each item before signing off.
 
