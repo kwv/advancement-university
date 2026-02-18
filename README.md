@@ -1,5 +1,7 @@
 # Advancement University
 
+**Live site:** https://kwv.github.io/advancement-university/
+
 BSA merit badge presentations built with [reveal.js](https://revealjs.com), hosted on GitHub Pages.
 
 ## Badges
