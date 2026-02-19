@@ -77,22 +77,6 @@ Note: The data → trigger → workflow → task chain is how almost all automat
 
 --
 
-## Quick Check
-
-**Match the term to the example:**
-
-| Example | Term |
-|---------|------|
-| Netflix recommends a show based on your history | Machine Learning |
-| Siri answers any question you ask | Narrow AI |
-| A chatbot that handles customer service tickets | AI Agent / Bot |
-| A system that emails you when a package ships | Trigger + Workflow |
-| Your favorite songs — organized | Database |
-
-Note: Go through these quickly as a verbal check. Don't dwell — the rest of the session will reinforce these concepts in context.
-
----
-
 ## Requirement 2
 # 🤖 AI Basics
 
@@ -515,12 +499,12 @@ Create a timeline with **5 key milestones** in AI development.
 
 | Year | Milestone |
 |------|-----------|
-| 1950 | Alan Turing proposes the "Turing Test" as a measure of machine intelligence |
-| 1956 | The term "Artificial Intelligence" is coined at Dartmouth Conference |
+| 1950 | Alan Turing proposes the "Turing Test" — can a machine think? |
 | 1997 | IBM's Deep Blue defeats world chess champion Garry Kasparov |
-| 2011 | IBM Watson wins Jeopardy! against human champions |
-| 2016 | AlphaGo defeats world Go champion — a game considered far harder than chess |
-| 2022 | ChatGPT launches, bringing conversational AI to the public |
+| 2016 | AlphaGo defeats world Go champion (Lee Sedol) |
+| 2022 | **ChatGPT** launches, starting the Generative AI explosion |
+| 2023 | AI image and video generation (Midjourney, Sora) become mainstream |
+| 2024 | AI "Agents" start handling complex multi-step tasks |
 
 > Pick 5 that tell a story — from concept to today.
 
@@ -636,12 +620,11 @@ Create a timeline with **5 milestones** in automation development.
 
 | Year | Milestone |
 |------|-----------|
-| 1785 | Power loom automates textile weaving |
 | 1913 | Henry Ford introduces the moving assembly line |
-| 1947 | Transistor invented — foundation of all electronic automation |
 | 1961 | First industrial robot arm (Unimate) used in a GM factory |
-| 1990s | Business process automation software transforms office work |
-| 2000s | Robotic process automation (RPA) automates digital tasks |
+| 2015 | SpaceX successfully lands a Falcon 9 rocket autonomously |
+| 2020 | Delivery drones and sidewalk robots start commercial testing |
+| 2023 | Humanoid robots (Tesla Optimus, Figure) show advanced autonomous movement |
 
 Note: Video: "The Four Industrial Revolutions Explained in Under 4 Minutes" https://youtu.be/NDTvCO5ifKo
 
@@ -853,6 +836,27 @@ Note: Some philosophers argue the Turing Test only measures the ability to imita
 ## Requirement 5
 # 🎭 Deepfakes
 
+<div class="cols">
+<div>
+
+*Covering requirements 5a and 5b*
+
+- What is a deepfake?
+- How deepfakes affect people
+- What to do if you're targeted
+
+</div>
+<div>
+
+![AI-generated image of Pope Francis in a Balenciaga puffer coat](pope-deepfake.jpg)
+
+*Is this real?*
+
+</div>
+</div>
+
+Note: Show the image and ask "Is this real?" before advancing. It's AI-generated (Midjourney, March 2023) — Pope Francis in a Balenciaga puffer coat. It went viral and fooled millions.
+
 --
 
 ## 5a — What Is a Deepfake?
@@ -866,33 +870,6 @@ Note: Some philosophers argue the Turing Test only measures the ability to imita
 
 --
 
-## Is This Real?
-
-<div class="cols">
-<div>
-
-![AI-generated image of Pope Francis in a Balenciaga puffer coat](https://assets1.cbsnewsstatic.com/hub/i/r/2023/03/28/fabd7f51-3635-4172-8d82-29eb27691013/thumbnail/1240x780g2/cd8b154b1e8cf23be7e82397ad721da7/960x0.jpg)
-
-</div>
-<div>
-
-**This image went viral in March 2023.**
-
-- Generated using Midjourney AI
-- Spread across social media as real news
-- Millions of people believed it
-- Pope Francis never wore this coat
-
-**This is a deepfake.**
-
-> If you didn't know — you're not alone. That's exactly the problem.
-
-</div>
-</div>
-
-Note: Show the image first WITHOUT the right column visible if possible — just ask "Is this real?" and let scouts answer before advancing or discussing. The point is to make it personal before it's academic.
-
---
 
 ## 5a — How Deepfakes Affect Individuals
 
