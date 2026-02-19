@@ -73,7 +73,7 @@ Note: These are the foundational building blocks — data is what AI learns from
 
 Note: The data → trigger → workflow → task chain is how almost all automation and AI systems are structured.
 
---
+---
 
 ## Requirement 2
 # 🤖 AI Basics
