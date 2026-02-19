@@ -40,7 +40,7 @@ Before we go further, let's define the terms:
 - **General AI** — hypothetical AI that can do *any* intellectual task a human can
 - **Superintelligent AI** — hypothetical AI that surpasses human intelligence in every area
 
-Note: Ask scouts which of these they think exists today. Only narrow AI is real and widely deployed. General AI and superintelligent AI remain theoretical.
+Note: Ask scouts which of these they think exists today. Only narrow AI is real and widely deployed. General AI and superintelligent AI remain theoretical. Videos: "What is Artificial Intelligence?" https://youtu.be/uMzUB89uSxU | "The Seven Types of AI" https://youtu.be/XFZ-rQ8eeR8
 
 --
 
@@ -524,7 +524,7 @@ Create a timeline with **5 key milestones** in AI development.
 
 > Pick 5 that tell a story — from concept to today.
 
-Note: Scouts can use these or research their own. Encourage them to include one milestone that personally surprised them.
+Note: Scouts can use these or research their own. Encourage them to include one milestone that personally surprised them. Video: "The Evolution of Artificial Intelligence: A Timeline" https://youtu.be/VIj2f43sVS4
 
 ---
 
@@ -643,6 +643,8 @@ Create a timeline with **5 milestones** in automation development.
 | 1990s | Business process automation software transforms office work |
 | 2000s | Robotic process automation (RPA) automates digital tasks |
 
+Note: Video: "The Four Industrial Revolutions Explained in Under 4 Minutes" https://youtu.be/NDTvCO5ifKo
+
 ---
 
 ## Requirement 4
@@ -662,7 +664,7 @@ Create a timeline with **5 milestones** in automation development.
 - Who owns that data? Who can access it? How long is it kept?
 - Example: smart speakers always "listening" for wake words
 
-Note: These are not abstract concerns — they affect real people. Recommended videos from Digital Resources guide: "Ethics & AI: Equal Access and Algorithmic Bias", "How Will AI Change the World?", "How AI Uses Our Drinking Water", "How Much Electricity Will AI Need?"
+Note: These are not abstract concerns — they affect real people. Videos: "Ethics & AI: Equal Access and Algorithmic Bias" https://youtu.be/tJQSyzBUAew | "How Will AI Change the World?" https://youtu.be/RzkD_rTEBYs | "How AI Uses Our Drinking Water" https://youtu.be/b0C56yqIkbk | "How Much Electricity Will AI Need?" https://youtu.be/cz3AYYZBiGs
 
 --
 
@@ -687,7 +689,7 @@ Note: These are not abstract concerns — they affect real people. Recommended v
 
 > There are no right answers. Thoughtful reasoning is the goal.
 
-Note: Encourage scouts to justify their positions. Push back gently. The point is ethical reasoning practice, not agreement. Recommended video: "10 Ethical Dilemmas AI Brings to Society" (Digital Resources guide).
+Note: Encourage scouts to justify their positions. Push back gently. The point is ethical reasoning practice, not agreement. Video: "10 Ethical Dilemmas AI Brings to Society" https://youtu.be/OQaBouHuM64
 
 --
 
@@ -844,7 +846,7 @@ If the judge **can't reliably tell which is which**, the machine passes the Turi
 
 > That's one of the deepest questions in computer science — and it's still debated.
 
-Note: Some philosophers argue the Turing Test only measures the ability to imitate, not true understanding. Ask scouts: "Could ChatGPT pass the Turing Test?" Recommended videos: "The Turing Test: Can a Computer Pass for a Human?" and "AI Passes Turing Test? ChatGPT 4.5 Fools 73% of Humans" (Digital Resources guide).
+Note: Some philosophers argue the Turing Test only measures the ability to imitate, not true understanding. Ask scouts: "Could ChatGPT pass the Turing Test?" Videos: "The Turing Test: Can a Computer Pass for a Human?" https://youtu.be/3wLqsRLvV-c | "AI Passes Turing Test? ChatGPT 4.5 Fools 73% of Humans" https://youtu.be/tgyXAf6P9zw
 
 ---
 
@@ -874,7 +876,7 @@ Note: Some philosophers argue the Turing Test only measures the ability to imita
 
 > The "grandparent scam" — AI mimicking a grandchild's voice to request money — is an active and growing threat.
 
-Note: Show scouts a deepfake detection tool if possible. Recommended videos from Digital Resources guide: "Deepfakes", "How to Spot Fake AI Photos", "When AI Can Fake Reality, Who Can You Trust?"
+Note: Show scouts a deepfake detection tool if possible. Videos: "Deepfakes" https://youtu.be/W631WArdFOs | "How to Spot Fake AI Photos" https://youtu.be/q5_PrTvNypY | "When AI Can Fake Reality, Who Can You Trust?" https://youtu.be/Hnjr7o-HNx8
 
 --
 
@@ -927,7 +929,7 @@ Note: Play this ~5min video before the technical discussion. It shows how recomm
 - It can't truly reason — it finds patterns, not understanding
 - Biased training data produces biased outputs
 
-Note: The hallucination point is critical. "AI said it" is not a reliable citation. Also recommended: "Explain Machine Learning to a Kid" and "How Does AI Learn?" (see Digital Resources guide).
+Note: The hallucination point is critical. "AI said it" is not a reliable citation. Videos: "Explain Machine Learning to a Kid" https://youtu.be/yjI6cMr1Pds | "How Does AI Learn?" https://youtu.be/5qOQOZjAhTo
 
 --
 
@@ -957,7 +959,7 @@ Note: Run a live demo if possible — show a vague prompt vs. a specific prompt 
 
 > As AI becomes more powerful, knowing how to direct it becomes more valuable.
 
-Note: This is a genuinely marketable skill. Recommended videos: "Google's 9 Hour AI Prompt Engineering Course in 20 Minutes" and "How to Use ChatGPT Effectively (and Avoid Common Mistakes)" (Digital Resources guide).
+Note: This is a genuinely marketable skill. Videos: "Google's 9 Hour AI Prompt Engineering Course in 20 Minutes" https://youtu.be/p09yRj47kNM | "How to Use ChatGPT Effectively (and Avoid Common Mistakes)" https://www.validata.ai/post/how-to-use-chatgpt-effectively
 
 --
 
@@ -1140,10 +1142,40 @@ Note: Use this as a final checklist with scouts. Have them speak to each item be
 
 - **Google's Teachable Machine** (build AI with no code): [teachablemachine.withgoogle.com](https://teachablemachine.withgoogle.com)
 - **AI4K12 Initiative** (AI education for K-12): [ai4k12.org](https://ai4k12.org)
-- **MIT Media Lab — AI resources**: [media.mit.edu](https://media.mit.edu)
 - **Khan Academy — AI literacy**: [khanacademy.org](https://khanacademy.org)
-- **Cyber Civil Rights Initiative** (deepfake help): [cybercivilrights.org](https://cybercivilrights.org)
 - **Elements of AI** (free online course): [elementsofai.com](https://elementsofai.com)
+- **Cyber Civil Rights Initiative** (deepfake help): [cybercivilrights.org](https://cybercivilrights.org)
 - **BSA AI Merit Badge**: [scouting.org](https://www.scouting.org/merit-badges/artificial-intelligence/)
 
-Note: Elements of AI is a free university-level course that is genuinely accessible to motivated teens. Highly recommended for scouts who want to go deeper.
+Note: Elements of AI is a free university-level course genuinely accessible to motivated teens. Highly recommended for scouts who want to go deeper.
+
+--
+
+## Video Resources
+
+<div class="cols">
+<div>
+
+**Concepts**
+- [What is Artificial Intelligence?](https://youtu.be/uMzUB89uSxU)
+- [The Seven Types of AI](https://youtu.be/XFZ-rQ8eeR8)
+- [Every Algorithm Watching You Started Like This](https://youtu.be/R9OHn5ZF4Uo)
+- [Explain Machine Learning to a Kid](https://youtu.be/yjI6cMr1Pds)
+- [How Does AI Learn?](https://youtu.be/5qOQOZjAhTo)
+- [The Evolution of AI: A Timeline](https://youtu.be/VIj2f43sVS4)
+- [The Four Industrial Revolutions](https://youtu.be/NDTvCO5ifKo)
+
+</div>
+<div>
+
+**Ethics & Safety**
+- [Ethics & AI: Equal Access and Algorithmic Bias](https://youtu.be/tJQSyzBUAew)
+- [10 Ethical Dilemmas AI Brings to Society](https://youtu.be/OQaBouHuM64)
+- [How Will AI Change the World?](https://youtu.be/RzkD_rTEBYs)
+- [Deepfakes](https://youtu.be/W631WArdFOs)
+- [When AI Can Fake Reality, Who Can You Trust?](https://youtu.be/Hnjr7o-HNx8)
+- [The Turing Test: Can a Computer Pass for a Human?](https://youtu.be/3wLqsRLvV-c)
+- [Google's AI Prompt Engineering Course in 20 Min](https://youtu.be/p09yRj47kNM)
+
+</div>
+</div>
