@@ -3,6 +3,11 @@
 
 **Boy Scouts of America**
 
+<div class="title-links">
+  <a href="https://www.scouting.org/merit-badges/artificial-intelligence/">Official Requirements ↗</a>
+  <div class="qr-code" data-url="https://www.scouting.org/merit-badges/artificial-intelligence/"></div>
+</div>
+
 ---
 
 ## Agenda
@@ -95,7 +100,15 @@ Note: Go through these quickly as a verbal check. Don't dwell — the rest of th
 
 ## 2a — AI in Everyday Life
 
-**Can you name 10 examples?** Here are some to get started:
+**Can you name 10 examples?**
+
+*Think about your phone, your home, your car, apps you use every day...*
+
+Note: Give scouts 60 seconds to brainstorm out loud before advancing to the reveal.
+
+--
+
+## 2a — AI in Everyday Life
 
 <div class="cols">
 <div>
@@ -118,13 +131,21 @@ Note: Go through these quickly as a verbal check. Don't dwell — the rest of th
 </div>
 </div>
 
-Note: Ask scouts to name their own examples before revealing this list. They'll likely name several that aren't here.
+> How many did you get?
 
 --
 
 ## 2b — AI in the Workplace
 
-**5 examples:**
+**Can you name 5 examples?**
+
+*Where are businesses using AI for work that used to require a person?*
+
+Note: Let scouts brainstorm before advancing. Then ask: "Does that mean those workers will be replaced?"
+
+--
+
+## 2b — AI in the Workplace
 
 1. 📄 Resume screening software (reads thousands of applications)
 2. 💬 Customer service chatbots
@@ -132,13 +153,21 @@ Note: Ask scouts to name their own examples before revealing this list. They'll 
 4. 🏥 Medical imaging analysis (AI spots tumors in X-rays)
 5. 📦 Supply chain optimization (predicting what to stock and when)
 
-Note: The medical imaging example is particularly powerful — AI can outperform radiologists on specific tasks. Ask: "Does that mean doctors will be replaced?"
+> AI can outperform radiologists on specific imaging tasks — does that mean doctors will be replaced?
 
 --
 
 ## 2c — AI in School and Education
 
-**5 examples:**
+**Can you name 5 examples?**
+
+*AI you or your classmates might already be using — or that your teachers use...*
+
+Note: Let scouts brainstorm first. Then advance and ask which ones they've actually used.
+
+--
+
+## 2c — AI in School and Education
 
 1. 📝 Plagiarism detectors (Turnitin)
 2. 🎯 Personalized learning platforms (Khan Academy's adaptive exercises)
@@ -146,7 +175,7 @@ Note: The medical imaging example is particularly powerful — AI can outperform
 4. ✅ Automated grading of multiple-choice and even short-answer questions
 5. 🌍 Language learning apps with speech recognition (Duolingo)
 
-Note: This is personal for scouts. Ask them which of these they've actually used.
+> Which of these have you actually used?
 
 --
 
@@ -462,6 +491,14 @@ Note: Scouts can use these or research their own. Encourage them to include one 
 
 **Can you name 10 examples?**
 
+*Think about things that happen automatically — no human pushing a button each time...*
+
+Note: Give scouts time to brainstorm out loud. Then advance. Reinforce the distinction: automation follows fixed rules, AI learns.
+
+--
+
+## 3a — Automation in Everyday Life
+
 <div class="cols">
 <div>
 
@@ -483,13 +520,21 @@ Note: Scouts can use these or research their own. Encourage them to include one 
 </div>
 </div>
 
-Note: The line between automation and AI can be blurry — that's intentional. Use examples to reinforce the distinction: automation follows rules, AI learns.
+> How many of these did you already know were automation — not AI?
 
 --
 
 ## 3b — Automation in the Workplace
 
-**5 examples:**
+**Can you name 5 examples?**
+
+*Think about jobs where the same task gets done the exact same way, over and over...*
+
+Note: Let scouts brainstorm before advancing.
+
+--
+
+## 3b — Automation in the Workplace
 
 1. Barcode scanning at checkout
 2. Automated email marketing sequences
@@ -501,7 +546,15 @@ Note: The line between automation and AI can be blurry — that's intentional. U
 
 ## 3c — Automation in School
 
-**5 examples:**
+**Can you name 5 examples?**
+
+*What happens at your school without a human doing it manually each time?*
+
+Note: Let scouts brainstorm before advancing.
+
+--
+
+## 3c — Automation in School
 
 1. Online quiz grading (multiple choice)
 2. Attendance tracking systems
@@ -585,7 +638,7 @@ Play **5 rounds** with your counselor.
 **Sample scenarios to discuss:**
 
 1. An AI resume screener rejected your job application before a human ever saw it. What should happen?
-2. A friend uses AI to write their entire school essay and submits it as their own work. Is this cheating?
+2. A scout uses AI to write their entire Eagle Scout project report and submits it as their own work. Is this a problem?
 3. A company's AI chatbot gives a customer wrong medical advice. Who is responsible?
 4. An AI system predicts a neighborhood has high crime risk — police patrol it more heavily. Is this fair?
 5. Your school's AI monitoring software flags your messages as suspicious. You were just venting to a friend. What are your rights?
@@ -726,9 +779,9 @@ Note: Run a live demo if possible — show a vague prompt vs. a specific prompt 
 
 | Weak Prompt | Strong Prompt |
 |-------------|---------------|
-| "Write an essay" | "Write a 3-paragraph persuasive essay for a 9th grader arguing that schools should start later, using 2 specific research findings" |
+| "Plan a campout" | "Plan a 3-day backpacking menu for 8 scouts. All meals must need no refrigeration. Include estimated calories per meal." |
 | "Explain AI" | "Explain machine learning to a 14-year-old using an analogy involving sports" |
-| "Help with math" | "I'm stuck on this algebra problem. Walk me through each step without just giving me the answer" |
+| "Help me tie a knot" | "I'm learning to tie a bowline. Walk me through each step, describing what the rope should look like at each stage." |
 
 > As AI becomes more powerful, knowing how to direct it becomes more valuable.
 
@@ -738,7 +791,7 @@ Note: This is a genuinely marketable skill. Companies are hiring "prompt enginee
 
 ## 6d — Writing Clear Instructions: Demonstration
 
-Demonstrate **3 examples** of writing clear AI instructions for school tasks.
+Demonstrate **3 examples** of writing clear AI instructions for a real goal.
 
 **Template for a strong prompt:**
 ```
@@ -752,33 +805,38 @@ Constraint: Do not [limitation].
 
 ## 6d — Example Prompts
 
-**Example 1 — History paper:**
+**Example 1 — Campout meal planning:**
 ```
-Context:    I am a 10th grader writing a history paper.
-Task:       Give me 3 specific causes of World War I,
-            each with one concrete example.
-Format:     Bullet points, one sentence per cause.
-Constraint: Do not write the paper for me — just facts.
-```
-
-**Example 2 — Math help:**
-```
-Context:    I'm a 9th grader stuck on a quadratic equation.
-Task:       Walk me through how to factor x² + 5x + 6.
-Format:     Step by step, one step at a time.
-Constraint: Don't just give the answer — explain each step.
+Context:    I'm a scout planning a 3-day backpacking trip
+            for a patrol of 8.
+Task:       Suggest a lightweight, nutritious meal plan for
+            each day — breakfast, lunch, and dinner.
+Format:     Bullet list by day, with estimated calories.
+Constraint: All meals must require no refrigeration.
 ```
 
-**Example 3 — Science study:**
+**Example 2 — Learning a scout skill:**
 ```
-Context:    I have a biology test tomorrow on cell division.
-Task:       Quiz me on the stages of mitosis.
+Context:    I'm learning wilderness first aid for my
+            First Aid merit badge.
+Task:       Walk me through treating a sprained ankle
+            on the trail with no hospital nearby.
+Format:     Numbered steps, one at a time.
+Constraint: Assume only a standard BSA first aid kit.
+```
+
+**Example 3 — Merit badge prep:**
+```
+Context:    I have a merit badge counselor meeting next
+            week for Environmental Science.
+Task:       Quiz me on the differences between weather
+            and climate.
 Format:     Ask one question, wait for my answer, then
             tell me if I'm right and explain why.
 Constraint: Don't give away the answer before I try.
 ```
 
-Note: Have scouts write their own prompt for a real assignment they currently have. Then test it live if you have internet access.
+Note: Have scouts write their own prompt for a real scouting goal they have. Then test it live if you have internet access.
 
 ---
 

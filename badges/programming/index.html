@@ -31,6 +31,7 @@
   <script src="https://cdn.jsdelivr.net/npm/reveal.js@5/plugin/markdown/markdown.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/reveal.js@5/plugin/highlight/highlight.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/reveal.js@5/plugin/notes/notes.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/qrcodejs@1.0.0/qrcode.min.js"></script>
 
   <script>
     Reveal.initialize({
@@ -43,6 +44,19 @@
       minScale: 0.2,
       maxScale: 2.0,
       plugins: [RevealMarkdown, RevealHighlight, RevealNotes],
+    });
+
+    Reveal.on('ready', function () {
+      document.querySelectorAll('.qr-code[data-url]').forEach(function (el) {
+        new QRCode(el, {
+          text: el.dataset.url,
+          width: 100,
+          height: 100,
+          colorDark: '#1a1a1a',
+          colorLight: '#ffffff',
+          correctLevel: QRCode.CorrectLevel.M,
+        });
+      });
     });
   </script>
 </body>

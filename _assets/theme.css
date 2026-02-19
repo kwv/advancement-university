@@ -183,3 +183,18 @@
 .reveal .center {
   text-align: center;
 }
+
+/* Title slide — official MB link + QR code */
+.title-links {
+  display: flex;
+  align-items: center;
+  gap: 1.2em;
+  margin-top: 0.8em;
+}
+
+.qr-code canvas,
+.qr-code img {
+  display: block;
+  border-radius: 4px;
+  border: 3px solid #fff;
+}

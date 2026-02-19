@@ -3,6 +3,11 @@
 
 **Boy Scouts of America**
 
+<div class="title-links">
+  <a href="https://www.scouting.org/merit-badges/programming/">Official Requirements ↗</a>
+  <div class="qr-code" data-url="https://www.scouting.org/merit-badges/programming/"></div>
+</div>
+
 ---
 
 ## Agenda
@@ -174,6 +179,14 @@ Be ready to talk about:
 
 Create your own list of **5 popular languages** — which industries use them and why.
 
+*Think about: web, games, apps, science, business, hardware...*
+
+Note: Give scouts time to brainstorm their own list before advancing. There's no single right answer.
+
+--
+
+## 3a — Popular Programming Languages Today
+
 | Language | Industries | Why It Fits |
 |----------|-----------|-------------|
 | Python | AI, data science, web | Readable syntax, massive library ecosystem |
@@ -184,15 +197,21 @@ Create your own list of **5 popular languages** — which industries use them an
 
 > Also worth researching: SQL, Rust, Go, Kotlin, Ruby, R
 
-Note: Scouts should build their own list — these are examples, not the answer. Encourage them to research languages they're personally curious about.
-
 --
 
 ## 3b — Programmed Devices You Rely On Every Day
 
-**Discussion:** Name devices around you right now that run software
+**Discussion:** Name devices around you right now that run software.
 
-Examples to get you thinking:
+*Look beyond phones and computers — further than you think...*
+
+> Describe **3 devices**: what they do, what the program controls, and what would happen without it.
+
+Note: Push scouts beyond obvious devices before advancing. Almost everything electronic has firmware or software inside it.
+
+--
+
+## 3b — Programmed Devices You Rely On Every Day
 
 - 📱 **Smartphone** — apps, GPS, camera processing
 - 🍽️ **Microwave** — timing sequences and power control
@@ -200,9 +219,7 @@ Examples to get you thinking:
 - 📺 **Smart TV** — streaming, recommendations, interface
 - 🚦 **Traffic lights** — timing cycles, sensors, coordination
 
-> Describe **3 devices**: what they do, what the program controls, and what would happen without it.
-
-Note: Push scouts beyond obvious computers. Almost everything electronic has firmware or software running inside it.
+> What would happen if the software stopped working in each of these?
 
 ---
 

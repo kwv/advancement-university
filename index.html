@@ -92,12 +92,40 @@
       line-height: 1.5;
     }
 
-    .badge-card .cta {
+    .badge-card .card-footer {
+      display: flex;
+      align-items: flex-end;
+      justify-content: space-between;
       margin-top: auto;
       padding-top: 1rem;
+      gap: 1rem;
+    }
+
+    .badge-card .cta {
       font-size: 0.875rem;
       font-weight: 600;
       color: var(--bsa-gold);
+    }
+
+    .badge-card .qr-wrap {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 0.3rem;
+      flex-shrink: 0;
+    }
+
+    .badge-card .qr-wrap canvas,
+    .badge-card .qr-wrap img {
+      display: block;
+      border-radius: 4px;
+      border: 3px solid #fff;
+    }
+
+    .badge-card .qr-label {
+      font-size: 0.65rem;
+      color: rgba(245, 230, 200, 0.45);
+      text-align: center;
     }
 
     footer {
@@ -120,23 +148,60 @@
       <div class="icon">💻</div>
       <h2>Programming</h2>
       <p>Explore programming languages, intellectual property, hands-on projects, and careers in software.</p>
-      <div class="cta">Open presentation →</div>
+      <div class="card-footer">
+        <div class="cta">Open presentation →</div>
+        <div class="qr-wrap">
+          <div id="qr-programming"></div>
+          <span class="qr-label">Scan to open</span>
+        </div>
+      </div>
     </a>
 
     <a class="badge-card" href="badges/ai/">
       <div class="icon">🤖</div>
       <h2>Artificial Intelligence</h2>
       <p>Discover AI and automation concepts, ethics, deepfakes, prompt engineering, and career pathways.</p>
-      <div class="cta">Open presentation →</div>
+      <div class="card-footer">
+        <div class="cta">Open presentation →</div>
+        <div class="qr-wrap">
+          <div id="qr-ai"></div>
+          <span class="qr-label">Scan to open</span>
+        </div>
+      </div>
     </a>
 
     <a class="badge-card" href="badges/cybersecurity/">
       <div class="icon">🔐</div>
       <h2>Cybersecurity</h2>
       <p>Learn about cyber threats, defenses, cryptography, IoT, and how to protect yourself online.</p>
-      <div class="cta">Open presentation →</div>
+      <div class="card-footer">
+        <div class="cta">Open presentation →</div>
+        <div class="qr-wrap">
+          <div id="qr-cybersecurity"></div>
+          <span class="qr-label">Scan to open</span>
+        </div>
+      </div>
     </a>
   </main>
+
+  <script src="https://cdn.jsdelivr.net/npm/qrcodejs@1.0.0/qrcode.min.js"></script>
+  <script>
+    var badges = [
+      { id: 'qr-programming',   url: 'https://kwv.github.io/advancement-university/badges/programming/' },
+      { id: 'qr-ai',            url: 'https://kwv.github.io/advancement-university/badges/ai/' },
+      { id: 'qr-cybersecurity', url: 'https://kwv.github.io/advancement-university/badges/cybersecurity/' },
+    ];
+    badges.forEach(function (b) {
+      new QRCode(document.getElementById(b.id), {
+        text: b.url,
+        width: 72,
+        height: 72,
+        colorDark: '#1a1a1a',
+        colorLight: '#ffffff',
+        correctLevel: QRCode.CorrectLevel.M,
+      });
+    });
+  </script>
 
   <footer>
     <p>Hosted on GitHub Pages &bull; Built with <a href="https://revealjs.com" style="color: inherit;">reveal.js</a></p>

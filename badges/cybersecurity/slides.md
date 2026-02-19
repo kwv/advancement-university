@@ -3,6 +3,11 @@
 
 **Boy Scouts of America**
 
+<div class="title-links">
+  <a href="https://www.scouting.org/merit-badges/cybersecurity/">Official Requirements ↗</a>
+  <div class="qr-code" data-url="https://www.scouting.org/merit-badges/cybersecurity/"></div>
+</div>
+
 ---
 
 ## Agenda
@@ -99,9 +104,15 @@ Note: The distracted walking and driving points are genuinely life-and-death. Be
 
 ## 2a — The Scout Law and the Internet
 
-Pick **3 points of the Scout Law** and explain how they apply online.
+Pick **3 points of the Scout Law** and explain how each one applies online.
 
-**Examples:**
+*You know the 12 points — which ones matter most in the digital world?*
+
+Note: Give scouts time to pick their own 3 and explain the connection before advancing to examples.
+
+--
+
+## 2a — The Scout Law and the Internet
 
 | Scout Law Point | Online Application |
 |----------------|-------------------|
@@ -114,7 +125,7 @@ Pick **3 points of the Scout Law** and explain how they apply online.
 | **Thrifty** | Don't waste others' bandwidth or resources |
 | **Clean** | Keep your digital spaces free of harmful content |
 
-Note: Have scouts choose their own 3 and articulate the connection in their own words. There's no single right answer.
+> Which 3 did you choose? Did anyone pick one not on this list?
 
 --
 
@@ -612,7 +623,13 @@ Note: Have scouts actually look at their home router settings (with parent permi
 
 Research **3 situations** where encryption is used in cybersecurity.
 
-**Common examples:**
+*Think about: browsing, messaging, storing files, passwords...*
+
+Note: Give scouts time to brainstorm before advancing. HTTPS is something they can check right now on any website.
+
+--
+
+## 6a — Where Encryption Is Used
 
 | Situation | Type of Encryption | Why |
 |-----------|-------------------|-----|
@@ -622,7 +639,7 @@ Research **3 situations** where encryption is used in cybersecurity.
 | Password storage | Hashing (bcrypt, SHA) | Passwords stored as one-way hashes, not plain text |
 | VPN connections | OpenVPN, WireGuard | Encrypts all internet traffic on a network |
 
-Note: Emphasize that HTTPS is something scouts can check right now on any website. It directly affects their safety every day.
+> Which 3 did you identify? Did anyone find one not on this list?
 
 --
 
