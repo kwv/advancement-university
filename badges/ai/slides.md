@@ -1,8 +1,6 @@
 # Artificial Intelligence Merit Badge ⚜️
 ## BSA Merit Badge
 
-**Boy Scouts of America**
-
 <div class="title-links">
   <a href="https://www.scouting.org/merit-badges/artificial-intelligence/">Official Requirements ↗</a>
   <div class="qr-code" data-url="https://www.scouting.org/merit-badges/artificial-intelligence/"></div>
@@ -841,7 +839,7 @@ Note: Some philosophers argue the Turing Test only measures the ability to imita
 
 ![AI-generated image of Pope Francis in a Balenciaga puffer coat](pope-deepfake.jpg)
 
-*Chat, is this real?*
+> Chat, is this real?
 
 
 Note: Show the image and ask "Is this real?" before advancing. It's AI-generated (Midjourney, March 2023) — Pope Francis in a Balenciaga puffer coat. It went viral and fooled millions.
@@ -1006,6 +1004,12 @@ Constraint: Don't give away the answer before I try.
 
 Note: Have scouts write their own prompt for a real scouting goal they have. Then test it live if you have internet access.
 
+---
+## 6d — Time to Prompt
+![Scoutly chatbot](scoutly.png)
+
+  <div class="qr-scoutly" data-url="https://www.scouting.org"></div>
+ 
 ---
 
 ## Requirement 7

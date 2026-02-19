@@ -1,7 +1,6 @@
 # Cybersecurity Merit Badge ⚜️
 ## BSA Merit Badge
 
-**Boy Scouts of America**
 
 <div class="title-links">
   <a href="https://www.scouting.org/merit-badges/cybersecurity/">Official Requirements ↗</a>

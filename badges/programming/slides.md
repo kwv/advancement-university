@@ -1,8 +1,6 @@
 # Programming Merit Badge ⚜️
 ## BSA Merit Badge
 
-**Boy Scouts of America**
-
 <div class="title-links">
   <a href="https://www.scouting.org/merit-badges/programming/">Official Requirements ↗</a>
   <div class="qr-code" data-url="https://www.scouting.org/merit-badges/programming/"></div>
