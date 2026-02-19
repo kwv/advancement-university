@@ -866,6 +866,34 @@ Note: Some philosophers argue the Turing Test only measures the ability to imita
 
 --
 
+## Is This Real?
+
+<div class="cols">
+<div>
+
+![AI-generated image of Pope Francis in a Balenciaga puffer coat](https://assets1.cbsnewsstatic.com/hub/i/r/2023/03/28/fabd7f51-3635-4172-8d82-29eb27691013/thumbnail/1240x780g2/cd8b154b1e8cf23be7e82397ad721da7/960x0.jpg)
+
+</div>
+<div>
+
+**This image went viral in March 2023.**
+
+- Generated using Midjourney AI
+- Spread across social media as real news
+- Millions of people believed it
+- Pope Francis never wore this coat
+
+**This is a deepfake.**
+
+> If you didn't know — you're not alone. That's exactly the problem.
+
+</div>
+</div>
+
+Note: Show the image first WITHOUT the right column visible if possible — just ask "Is this real?" and let scouts answer before advancing or discussing. The point is to make it personal before it's academic.
+
+--
+
 ## 5a — How Deepfakes Affect Individuals
 
 **How it can affect an individual:**
