@@ -214,6 +214,8 @@ A calculator follows fixed, pre-written rules. It doesn't learn anything. It per
 
 > **Key idea:** If it can't learn or adapt, it's automation — not AI.
 
+Note: Follow-up: 1. What makes this different from AI? 2. Could this become AI? How? 3. What would need to change to make it learn?
+
 --
 
 ## Round 2
@@ -236,6 +238,10 @@ Note: Pause here.
 It **learns from experience** — analyzing thousands of past games to get better. That's the definition of machine learning.
 
 > DeepMind's AlphaZero taught itself chess in 4 hours and beat the world's best chess engine.
+
+*Scout connection: Chess merit badge*
+
+Note: Follow-up: 1. How does the program learn? 2. What data does it use? 3. How is this different from a basic calculator?
 
 --
 
@@ -260,6 +266,10 @@ It **learns from data** — comparing predicted vs. actual weather to improve fu
 
 > Simple weather apps just show data. Smart forecasting systems actually learn.
 
+*Scout connection: Weather prediction for outdoor activities and camping*
+
+Note: Follow-up: 1. How does weather prediction help in Scout activities? 2. What data does the system use? 3. How does it improve over time?
+
 --
 
 ## Round 4
@@ -281,6 +291,10 @@ Note: Pause here.
 It's a **timer-based trigger**. It does exactly what you program it to do, nothing more. No learning, no adaptation.
 
 > Trigger + fixed action = automation, not AI.
+
+*Scout connection: Camp schedule management*
+
+Note: Follow-up: 1. What would make this alarm clock "smart"? 2. How is this different from a smart home system? 3. What features would add AI capabilities?
 
 --
 
@@ -305,6 +319,10 @@ Spotify, Apple Music, and YouTube Music all use **machine learning** — analyzi
 
 > This is one of the most sophisticated AI systems most people use every day.
 
+*Scout connection: Music merit badge*
+
+Note: Follow-up: 1. How does the system learn your preferences? 2. What patterns might it identify? 3. How could this technology help in other areas?
+
 --
 
 ## Round 6
@@ -325,6 +343,10 @@ Note: Pause here.
 ## NOT AI
 
 Fixed timing = **predetermined automation**. The light doesn't know if there are 50 cars waiting or zero cars. It just counts time.
+
+*Scout connection: Traffic Safety merit badge*
+
+Note: Follow-up: 1. What would make this traffic light "smart"? 2. How could AI improve traffic flow? 3. What sensors would be needed?
 
 --
 
@@ -349,6 +371,10 @@ It uses **real-time data** (cameras, sensors, GPS feeds) to make decisions and c
 
 > Cities like Pittsburgh reduced travel time by 25% using AI traffic systems.
 
+*Scout connection: Traffic Safety merit badge*
+
+Note: Follow-up: 1. How does this improve traffic flow? 2. What data does it collect? 3. How does it handle special events like parades or emergencies?
+
 --
 
 ## Round 8
@@ -371,6 +397,10 @@ Note: Pause here.
 It's a **motion sensor trigger**. Detect motion → open door. No learning, no decisions, no adaptation.
 
 > Same concept as a light switch — input triggers a fixed output.
+
+*Scout connection: Engineering merit badge*
+
+Note: Follow-up: 1. What sensors does it use? 2. How is this different from AI? 3. What would make it "smart" — e.g., recognize faces, count people, adjust speed?
 
 --
 
@@ -395,6 +425,10 @@ It performs **anomaly detection** — learning what "normal" looks like in your 
 
 > Ring and Nest both use this. It's why they stop alerting you about your own car after a week.
 
+*Scout connection: Crime Prevention merit badge*
+
+Note: Follow-up: 1. What patterns might it learn? 2. How does it decide what counts as "unusual"? 3. What privacy concerns exist — who has access to this data?
+
 --
 
 ## Round 10
@@ -415,6 +449,10 @@ Note: Pause here.
 ## NOT AI
 
 **Timer-based automation**. It runs on schedule regardless of whether it rained last night or if the soil is already saturated.
+
+*Scout connection: Gardening merit badge*
+
+Note: Follow-up: 1. How could this system be improved? 2. What would make it "smart"? 3. How could AI make it more water-efficient?
 
 --
 
@@ -439,6 +477,10 @@ Note: Pause here.
 
 > This is a great example of AI saving resources — water, energy, money.
 
+*Scout connection: Environmental Science merit badge*
+
+Note: Follow-up: 1. What factors influence its decisions? 2. How does it save water compared to the timer version? 3. What sensors does it use?
+
 --
 
 ## Round 12
@@ -460,6 +502,10 @@ Note: Pause here.
 Classic **input → fixed output**. Press B3, get chips. It doesn't learn your preferences, suggest alternatives, or adapt to anything.
 
 > Unless it's a modern vending machine with facial recognition and personalized recommendations — then it IS AI!
+
+*Scout connection: American Business merit badge*
+
+Note: Follow-up: 1. How does it verify payment? 2. What would make it "smart"? 3. How could AI improve the experience — or raise concerns?
 
 --
 
@@ -631,19 +677,137 @@ Note: These are not abstract concerns — they affect real people. The loan deni
 
 --
 
-## 4b — "What Would You Do?" Ethical Scenarios
+## 4b — "What Would You Do?"
 
-Play **5 rounds** with your counselor.
+**5 rounds** with your counselor.
 
-**Sample scenarios to discuss:**
+- Counselor reads the scenario
+- You discuss: what would YOU do — and why?
+- Then advance to see key tensions and guiding questions
 
-1. An AI resume screener rejected your job application before a human ever saw it. What should happen?
-2. A scout uses AI to write their entire Eagle Scout project report and submits it as their own work. Is this a problem?
-3. A company's AI chatbot gives a customer wrong medical advice. Who is responsible?
-4. An AI system predicts a neighborhood has high crime risk — police patrol it more heavily. Is this fair?
-5. Your school's AI monitoring software flags your messages as suspicious. You were just venting to a friend. What are your rights?
+> There are no right answers. Thoughtful reasoning is the goal.
 
-Note: There are no single right answers. The goal is thoughtful discussion using ethical reasoning.
+Note: Encourage scouts to justify their positions. Push back gently. The point is ethical reasoning practice, not agreement.
+
+--
+
+## Round 1
+
+# The Resume Screener
+
+An AI reviewed your job application and rejected it — **before any human ever saw it.**
+
+**What should happen?**
+
+Note: Pause here. Let scouts discuss before advancing.
+
+--
+
+## Round 1 — Discussion
+
+# The Resume Screener
+
+- Should there always be a human reviewing AI decisions that affect people's lives?
+- If the AI is wrong, who is accountable — the company? The developer? The AI itself?
+- What if the AI was trained on biased historical data?
+
+> **Key tension:** Efficiency vs. accountability.
+
+--
+
+## Round 2
+
+# The Eagle Scout Report
+
+A scout uses AI to write their entire Eagle Scout project report and submits it as their own work.
+
+**Is this a problem?**
+
+Note: Pause here. Let scouts discuss before advancing.
+
+--
+
+## Round 2 — Discussion
+
+# The Eagle Scout Report
+
+- Which points of the Scout Law apply? *(Trustworthy? Honest? Brave?)*
+- What's the difference between using AI as a tool vs. letting AI do your work?
+- Does it matter if the project itself was genuinely the scout's idea and effort?
+
+> **Key tension:** Integrity vs. using available tools.
+
+--
+
+## Round 3
+
+# The Medical Chatbot
+
+A company's AI chatbot gives a customer incorrect medical advice. The customer follows it and is harmed.
+
+**Who is responsible?**
+
+Note: Pause here. Let scouts discuss before advancing.
+
+--
+
+## Round 3 — Discussion
+
+# The Medical Chatbot
+
+- The company that built it? The company that deployed it? The user who trusted it?
+- Should AI be allowed to give medical advice at all?
+- How should AI communicate its own uncertainty and limitations?
+
+> **Key tension:** Innovation and access vs. safety and clear accountability.
+
+--
+
+## Round 4
+
+# The Crime Predictor
+
+An AI predicts a neighborhood has high crime risk. Police are assigned to patrol it more heavily — **before any crime occurs.**
+
+**Is this fair?**
+
+Note: Pause here. Let scouts discuss before advancing.
+
+--
+
+## Round 4 — Discussion
+
+# The Crime Predictor
+
+- If the AI was trained on historical arrest data, could it inherit past biases?
+- Is predicting crime the same as preventing it — or is it punishing people for something they haven't done?
+- What rights do people in that neighborhood have?
+
+> **Key tension:** Public safety vs. civil rights and algorithmic fairness.
+
+--
+
+## Round 5
+
+# The Surveillance System
+
+Your school's AI monitoring software flags your messages as suspicious. You were just venting to a friend about a bad day.
+
+**What are your rights?**
+
+Note: Pause here. Let scouts discuss before advancing.
+
+--
+
+## Round 5 — Discussion
+
+# The Surveillance System
+
+- Does it matter whether this is a school device, personal phone, or public platform?
+- Who sees the flagged messages? What happens next? Can you appeal?
+- How do you balance student safety with privacy and the right to express yourself?
+
+> **Key tension:** Safety and prevention vs. privacy and trust.
 
 --
 
