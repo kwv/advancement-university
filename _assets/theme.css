@@ -15,6 +15,7 @@
 .reveal {
   font-family: 'Inter', system-ui, sans-serif;
   color: var(--bsa-tan);
+  font-size: 24px;
 }
 
 .reveal .slides {
@@ -82,7 +83,7 @@
 /* Code — inline */
 .reveal code {
   font-family: 'Fira Code', monospace;
-  background: rgba(255,255,255,0.1);
+  background: rgba(255, 255, 255, 0.1);
   padding: 0.1em 0.3em;
   border-radius: 4px;
   font-size: 0.78em;
@@ -143,7 +144,7 @@
 
 /* Progress bar */
 .reveal .progress {
-  background: rgba(255,255,255,0.1);
+  background: rgba(255, 255, 255, 0.1);
   color: var(--bsa-red);
 }
 

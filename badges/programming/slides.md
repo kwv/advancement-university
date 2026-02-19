@@ -36,23 +36,61 @@ Note: This video covers important online safety topics. Confirm with scouts that
 
 --
 
-## 1b — Staying Healthy While Coding
+## 1b — Repetitive Stress Injuries (RSI)
 
-**Repetitive Stress Injuries (RSI)**
+*Caused by long sessions of typing, clicking, and scrolling*
 
-- Caused by long sessions of typing, clicking, and scrolling
-- Symptoms: wrist pain, tingling fingers, sore neck and shoulders
-- Prevention: wrist rests, ergonomic keyboards, frequent breaks
+<div class="cols">
+<div>
 
-**Eyestrain**
+**Symptoms**
+- Wrist pain or aching
+- Tingling or numb fingers
+- Sore neck and shoulders
 
-- Caused by staring at a screen without breaks
-- The **20-20-20 rule**: every 20 minutes, look at something 20 feet away for 20 seconds
-- Adjust monitor brightness, contrast, and distance
+</div>
+<div>
 
-> Real programmers deal with these. Good habits from day one make a huge difference.
+**Prevention**
+- ⌨️ Ergonomic keyboard & wrist rest
+- 🪑 Adjust chair and monitor height
+- ⏱️ Break every 30–60 minutes
+
+</div>
+</div>
+
+> Good habits from day one make a huge difference.
 
 Note: Ask scouts: "Have any of you ever had sore wrists or headaches after a long gaming or coding session?" This makes it real.
+
+--
+
+## 1b — Eyestrain
+
+### ✨ The 20-20-20 Rule
+
+Every **20 min** → look **20 feet** away → for **20 seconds**
+
+<div class="cols">
+<div>
+
+💡 Match screen brightness to the room
+
+📏 Monitor at arm's length, near eye level
+
+</div>
+<div>
+
+🌙 Enable dark mode or night shift
+
+🔤 Increase text size if you're squinting
+
+</div>
+</div>
+
+> Small adjustments eliminate dry eyes, headaches, and long-term strain.
+
+Note: Mention f.lux or built-in night mode as practical tools scouts can use today.
 
 ---
 
@@ -227,21 +265,32 @@ Note: This surprises most people. Pull up a Terms of Service agreement and show 
 
 ## 4c — Three Software Categories
 
+<div class="cols">
+<div>
+
 **Freeware**
-- Free to use, but source code is closed
-- You cannot see, modify, or redistribute the code
-- Examples: Zoom (free tier), Adobe Acrobat Reader
+- Free to use, source code closed
+- Cannot see, modify, or redistribute
+- _Zoom (free tier), Acrobat Reader_
 
 **Open Source**
-- Source code is public and freely available
-- Anyone can use, study, modify, and distribute it
-- Examples: Linux, Python, VS Code, Firefox, VLC
+- Source code publicly available
+- Use, study, modify, and distribute freely
+- _Linux, Python, VS Code, Firefox, VLC_
+
+</div>
+<div>
 
 **Commercial Software**
-- You pay to use it; source code is proprietary
-- Examples: Adobe Creative Cloud, Microsoft Office
+- You pay to use it; code is proprietary
+- _Adobe Creative Cloud, Microsoft Office_
 
-> Many tools blur the lines — VS Code is both free *and* open source!
+<br>
+
+> Many tools blur the lines — VS Code is both free **and** open source!
+
+</div>
+</div>
 
 --
 
@@ -304,40 +353,62 @@ Note: Have scouts sketch out their program idea using this input/processing/outp
 
 --
 
-## What Makes a Good Project for This Badge?
+## What Makes a Good Project?
 
-Your program should:
+<div class="cols">
+<div>
 
-- Accept **input** from the user (typed text, button click, file, sensor)
-- **Process** it — perform a calculation, make a decision, transform the data
-- Produce **output** the user can see, hear, or use
+**Your program must have all three:**
 
-**Simple examples that fully qualify:**
-- A quiz game that checks your answers and keeps score
-- A temperature or unit converter
-- A number guessing game with hints ("higher / lower")
-- A simple to-do list that stores and displays items
-- A calculator with multiple operations
+📥 **Input** — typed text, clicks, or data from a file
 
-Note: Emphasize: complexity is not the goal. Demonstrating understanding of input, processing, and output is the goal.
+⚙️ **Processing** — calculation, decision, or transformation
+
+📤 **Output** — something visible, audible, or usable
+
+</div>
+<div>
+
+**Examples that fully qualify:**
+- Quiz game with score tracking
+- Temperature or unit converter
+- Number guessing game with hints
+- To-do list that stores items
+- Calculator with multiple operations
+
+</div>
+</div>
+
+Note: Complexity is not the goal. Demonstrating understanding of input, processing, and output is the goal.
 
 --
 
 ## Debugging: Finding and Fixing Errors
 
-**Three types of errors you'll encounter:**
+<div class="cols">
+<div>
 
-- 🔴 **Syntax error** — you wrote something the language can't understand (like a typo in a keyword)
-- 🟡 **Logic error** — the program runs but gives wrong answers
-- 🟠 **Runtime error** — the program crashes while running
+**Three Error Types**
 
-**Strategies that work:**
-- Read error messages carefully — they usually include the line number
-- Add `print()` statements to inspect what your variables contain
+🔴 **Syntax** — code the language can't parse (typo in keyword)
+
+🟡 **Logic** — runs, but gives wrong answers
+
+🟠 **Runtime** — crashes while executing
+
+</div>
+<div>
+
+**Strategies That Work**
+- Error messages include the line number — read them
+- Add `print()` to inspect variables mid-run
 - Test with simple, known inputs first
-- Ask yourself: "What did I *expect* to happen? What actually happened?"
+- Ask: "What did I *expect*? What *happened*?"
 
-> Professional programmers spend more than half their time debugging. It is not failure — it is the job.
+</div>
+</div>
+
+> Professionals spend more than half their time debugging. It's not failure — it's the job.
 
 Note: Normalize debugging early and often. Share a time you spent hours on a bug that turned out to be a simple typo.
 
@@ -345,22 +416,33 @@ Note: Normalize debugging early and often. Share a time you spent hours on a bug
 
 ## Language Ideas by Difficulty
 
-**Beginner-Friendly**
-- Scratch — block-based, drag-and-drop, visual results
-- Python — reads almost like English, huge community
-- HTML + basic JavaScript — see results instantly in a browser
+<div class="cols">
+<div>
 
-**Intermediate**
-- JavaScript — interactive web pages, games, APIs
-- Java — structured, widely used in school and industry
-- Swift Playgrounds — iOS-style coding on iPad or Mac
+**🟢 Beginner**
+- Scratch — block-based, drag-and-drop
+- Python — reads almost like English
+- HTML + basic JavaScript — instant browser results
 
-**Advanced**
-- C or C++ — low-level, fast, used in games and hardware
-- Rust — modern systems programming, growing fast
+**🟡 Intermediate**
+- JavaScript — web pages, games, APIs
+- Java — structured, school and industry
+- Swift Playgrounds — iOS coding on iPad
+
+</div>
+<div>
+
+**🔴 Advanced**
+- C or C++ — fast, games and hardware
+- Rust — modern systems, growing fast
 - TypeScript — typed JavaScript for larger projects
 
+<br>
+
 > Pick 3 that challenge you. At least one should be new to you.
+
+</div>
+</div>
 
 --
 
