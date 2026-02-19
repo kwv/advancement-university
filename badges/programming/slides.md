@@ -100,6 +100,7 @@ Note: Mention f.lux or built-in night mode as practical tools scouts can use tod
 ## Requirement 2
 # ⏳ History of Programming
 
+![IBM 1401 Punch Card](punch-card.jpg)
 --
 
 ## Where Did It All Start?
