@@ -499,12 +499,12 @@ Create a timeline with **5 key milestones** in AI development.
 
 | Year | Milestone |
 |------|-----------|
-| 1950 | Alan Turing proposes the "Turing Test" — can a machine think? |
+| 1950 | Alan Turing proposes the "Turing Test" — can a machine **think**? |
 | 1997 | IBM's Deep Blue defeats world chess champion Garry Kasparov |
-| 2016 | AlphaGo defeats world Go champion (Lee Sedol) |
-| 2022 | **ChatGPT** launches, starting the Generative AI explosion |
+| 2016 | AlphaGo (Reinforcement Learning) — machine **teaches** itself to beat a world master |
+| 2022 | ChatGPT (Pattern Learning) — machine **learns** the structure of human language |
 | 2023 | AI image and video generation (Midjourney, Sora) become mainstream |
-| 2024 | AI "Agents" start handling complex multi-step tasks |
+| 2024 | AI Agents (Reasoning) — machines begin to **solve** complex goals autonomously |
 
 > Pick 5 that tell a story — from concept to today.
 
@@ -620,11 +620,13 @@ Create a timeline with **5 milestones** in automation development.
 
 | Year | Milestone |
 |------|-----------|
-| 1913 | Henry Ford introduces the moving assembly line |
+| 1785 | Power loom automates textile weaving using **fixed physical templates** |
+| 1913 | Henry Ford introduces the assembly line — **standardized, repeatable motion** |
 | 1961 | First industrial robot arm (Unimate) used in a GM factory |
-| 2015 | SpaceX successfully lands a Falcon 9 rocket autonomously |
-| 2020 | Delivery drones and sidewalk robots start commercial testing |
-| 2023 | Humanoid robots (Tesla Optimus, Figure) show advanced autonomous movement |
+| 1980 | **Pac-Man Ghosts** — follow deterministic scripts (Blinky always targets your tile) |
+| 2002 | **Original Roomba** — purely random-bounce physics; had no map or "learning" |
+| 2012 | **Consumer 3D Printers** — follow a "recipe" (G-code); they don't know if a print fails |
+| 2015 | **Discord/Twitch Bots** — basic command-response rules (!rank, !play) |
 
 Note: Video: "The Four Industrial Revolutions Explained in Under 4 Minutes" https://youtu.be/NDTvCO5ifKo
 
@@ -836,24 +838,11 @@ Note: Some philosophers argue the Turing Test only measures the ability to imita
 ## Requirement 5
 # 🎭 Deepfakes
 
-<div class="cols">
-<div>
-
-*Covering requirements 5a and 5b*
-
-- What is a deepfake?
-- How deepfakes affect people
-- What to do if you're targeted
-
-</div>
-<div>
 
 ![AI-generated image of Pope Francis in a Balenciaga puffer coat](pope-deepfake.jpg)
 
-*Is this real?*
+*Chat, is this real?*
 
-</div>
-</div>
 
 Note: Show the image and ask "Is this real?" before advancing. It's AI-generated (Midjourney, March 2023) — Pope Francis in a Balenciaga puffer coat. It went viral and fooled millions.
 
@@ -974,7 +963,7 @@ Demonstrate **3 examples** of writing clear AI instructions for a real goal.
 
 **Template for a strong prompt:**
 ```
-Context:    I am a [grade] student working on [assignment].
+Context:    I am a [rank] scout working on [requirement].
 Task:       I need you to [specific action].
 Format:     Please respond in [format/length/style].
 Constraint: Do not [limitation].
@@ -990,7 +979,7 @@ Context:    I'm a scout planning a 3-day backpacking trip
             for a patrol of 8.
 Task:       Suggest a lightweight, nutritious meal plan for
             each day — breakfast, lunch, and dinner.
-Format:     Bullet list by day, with estimated calories.
+Format:     Bullet list by day, with estimated cost.
 Constraint: All meals must require no refrigeration.
 ```
 

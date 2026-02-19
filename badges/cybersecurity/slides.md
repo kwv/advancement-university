@@ -210,7 +210,9 @@ Note: Have scouts try to categorize the threats they've heard of (ransomware, ph
 ## Requirement 4
 # ⚠️ Threats, Vulnerabilities & Attacks
 
---
+![OWASP Juice Shop](owasp-juice-shop.png)
+
+---
 
 ## 4a — Three Key Terms
 
@@ -241,6 +243,20 @@ Think of it like a physical lock:
 > A **threat** uses an **exploit** to attack a **vulnerability**.
 
 Note: Use a lock analogy: vulnerability = weak lock, threat = burglar who knows your neighborhood, exploit = the specific lockpick technique they use.
+
+--
+
+## 4a — Cybersecurity Timeline
+
+| Year | Event | Why It Matters |
+|------|-------|----------------|
+| 1988 | Morris Worm | First major attack that broke the (very small) internet |
+| 2014 | Sony Pictures Hack | Pop culture crossover: movies leaked, business shut down |
+| 2017 | WannaCry | Ransomware went global — infected hospitals and banks |
+| 2021 | Log4shell / Colonial Pipeline | Showed how one tiny bug can break physical infrastructure |
+| 2023 | Grand Theft Auto VI Leak | Major gaming leak using social engineering (phishing) |
+
+> Hacks are getting faster, more expensive, and more personal.
 
 --
 

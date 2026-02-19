@@ -122,14 +122,13 @@ Note: Let scouts speculate before revealing history. This builds curiosity.
 
 | Year | Milestone |
 |------|-----------|
-| 1843 | 💡 Ada Lovelace writes the first algorithm — for a machine that didn't exist yet |
-| 1940s | Machine code — raw binary instructions, tedious and error-prone |
-| 1950s | Assembly language — first step toward human-readable code |
-| 1957 | 💡 FORTRAN — first high-level language, built for science and math |
-| 1972 | C — still powers operating systems and hardware today |
-| 1991 | 💡 Python — designed to be readable as plain English |
-| 1995 | Java, JavaScript, and PHP all released the same year |
-| 2009 | Go — built by Google for modern, scalable systems |
+| 1843 | 💡 Ada Lovelace writes the first algorithm |
+| 1972 | C released — still powers most of the world's systems |
+| 1991 | 💡 Python — designed for readability and ease of use |
+| 1995 | JavaScript — the language that makes the web interactive |
+| 2006 | **Roblox** launches — introducing millions to Luau (and game dev) |
+| 2009 | **Minecraft** (Java Edition) — sparks a global interest in modding |
+| 2021 | GitHub Copilot — AI begins helping humans write code |
 
 **You need at least 3 milestones — pick the ones that interest you most.**
 
