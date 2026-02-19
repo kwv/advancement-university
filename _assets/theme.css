@@ -184,6 +184,14 @@
   text-align: center;
 }
 
+/* YouTube / video embeds */
+.yt-embed {
+  width: 100%;
+  height: 420px;
+  border: none;
+  border-radius: 6px;
+}
+
 /* Title slide — official MB link + QR code */
 .title-links {
   display: flex;

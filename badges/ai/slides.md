@@ -662,7 +662,7 @@ Create a timeline with **5 milestones** in automation development.
 - Who owns that data? Who can access it? How long is it kept?
 - Example: smart speakers always "listening" for wake words
 
-Note: These are not abstract concerns — they affect real people. The loan denial and parole examples are real controversies.
+Note: These are not abstract concerns — they affect real people. Recommended videos from Digital Resources guide: "Ethics & AI: Equal Access and Algorithmic Bias", "How Will AI Change the World?", "How AI Uses Our Drinking Water", "How Much Electricity Will AI Need?"
 
 --
 
@@ -687,7 +687,7 @@ Note: These are not abstract concerns — they affect real people. The loan deni
 
 > There are no right answers. Thoughtful reasoning is the goal.
 
-Note: Encourage scouts to justify their positions. Push back gently. The point is ethical reasoning practice, not agreement.
+Note: Encourage scouts to justify their positions. Push back gently. The point is ethical reasoning practice, not agreement. Recommended video: "10 Ethical Dilemmas AI Brings to Society" (Digital Resources guide).
 
 --
 
@@ -844,7 +844,7 @@ If the judge **can't reliably tell which is which**, the machine passes the Turi
 
 > That's one of the deepest questions in computer science — and it's still debated.
 
-Note: Some philosophers argue the Turing Test only measures the ability to imitate, not true understanding. Ask scouts: "Could ChatGPT pass the Turing Test?"
+Note: Some philosophers argue the Turing Test only measures the ability to imitate, not true understanding. Ask scouts: "Could ChatGPT pass the Turing Test?" Recommended videos: "The Turing Test: Can a Computer Pass for a Human?" and "AI Passes Turing Test? ChatGPT 4.5 Fools 73% of Humans" (Digital Resources guide).
 
 ---
 
@@ -874,7 +874,7 @@ Note: Some philosophers argue the Turing Test only measures the ability to imita
 
 > The "grandparent scam" — AI mimicking a grandchild's voice to request money — is an active and growing threat.
 
-Note: Show scouts a deepfake detection tool if possible. The FaceForensics++ dataset has examples. The "grandparent scam" (AI mimicking a grandchild's voice to request money) is an active threat.
+Note: Show scouts a deepfake detection tool if possible. Recommended videos from Digital Resources guide: "Deepfakes", "How to Spot Fake AI Photos", "When AI Can Fake Reality, Who Can You Trust?"
 
 --
 
@@ -904,6 +904,14 @@ Note: Emphasize that this is not a "just ignore it" situation. Deepfakes used to
 
 --
 
+## 6a — How AI Learns
+
+<iframe class="yt-embed" src="https://www.youtube.com/embed/R9OHn5ZF4Uo" allowfullscreen></iframe>
+
+Note: Play this ~5min video before the technical discussion. It shows how recommendation algorithms learn from behavior — directly relevant to what follows.
+
+--
+
 ## 6a — How AI Learns (and Its Limits)
 
 **The AI learning process:**
@@ -919,7 +927,7 @@ Note: Emphasize that this is not a "just ignore it" situation. Deepfakes used to
 - It can't truly reason — it finds patterns, not understanding
 - Biased training data produces biased outputs
 
-Note: The hallucination point is critical for teens using AI for homework. "AI said it" is not a reliable citation.
+Note: The hallucination point is critical. "AI said it" is not a reliable citation. Also recommended: "Explain Machine Learning to a Kid" and "How Does AI Learn?" (see Digital Resources guide).
 
 --
 
@@ -949,7 +957,7 @@ Note: Run a live demo if possible — show a vague prompt vs. a specific prompt 
 
 > As AI becomes more powerful, knowing how to direct it becomes more valuable.
 
-Note: This is a genuinely marketable skill. Companies are hiring "prompt engineers" right now.
+Note: This is a genuinely marketable skill. Recommended videos: "Google's 9 Hour AI Prompt Engineering Course in 20 Minutes" and "How to Use ChatGPT Effectively (and Avoid Common Mistakes)" (Digital Resources guide).
 
 --
 
