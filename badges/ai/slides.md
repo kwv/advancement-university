@@ -498,6 +498,7 @@ Create a timeline with **5 key milestones** in AI development.
 | Year | Milestone |
 |------|-----------|
 | 1950 | Alan Turing proposes the "Turing Test" — can a machine **think**? |
+| 1966 | ELIZA — first chatbot, simulates a therapist using **pattern matching** |
 | 1997 | IBM's Deep Blue defeats world chess champion Garry Kasparov |
 | 2016 | AlphaGo (Reinforcement Learning) — machine **teaches** itself to beat a world master |
 | 2022 | ChatGPT (Pattern Learning) — machine **learns** the structure of human language |
@@ -507,6 +508,20 @@ Create a timeline with **5 key milestones** in AI development.
 > Pick 5 that tell a story — from concept to today.
 
 Note: Scouts can use these or research their own. Encourage them to include one milestone that personally surprised them. Video: "The Evolution of Artificial Intelligence: A Timeline" https://youtu.be/VIj2f43sVS4
+
+--
+
+## 2e — Meet ELIZA (1966)
+
+**ELIZA** was the world's first chatbot — created at MIT by Joseph Weizenbaum.
+
+It worked entirely with **pattern matching**: no learning, no neural networks, no understanding.
+
+*Try it — then compare it to ChatGPT:*
+
+<iframe src="eliza.html" style="width:100%;height:340px;border:none;border-radius:6px;background:#111;"></iframe>
+
+Note: Let scouts type a few messages. Key discussion: "Does ELIZA understand you? What's the difference between matching patterns and actually thinking?" ELIZA fooled many users in 1966 — Weizenbaum was disturbed by how readily people attributed feelings to it.
 
 ---
 
@@ -971,14 +986,13 @@ Constraint: Do not [limitation].
 
 ## 6d — Example Prompts
 
-**Example 1 — Campout meal planning:**
+**Example 1 — Science Concept:**
 ```
-Context:    I'm a scout planning a 3-day backpacking trip
-            for a patrol of 8.
-Task:       Suggest a lightweight, nutritious meal plan for
-            each day — breakfast, lunch, and dinner.
-Format:     Bullet list by day, with estimated cost.
-Constraint: All meals must require no refrigeration.
+Goal:       Help me understand photosynthesis.
+Role:       I am an 8th-grade science student.
+Task:       Explain the light-independent reactions (Calvin cycle).
+Format:     Use an analogy involving a factory or bakery.
+Constraint: Only clarify the steps.
 ```
 
 **Example 2 — Learning a scout skill:**
@@ -1004,7 +1018,7 @@ Constraint: Don't give away the answer before I try.
 
 Note: Have scouts write their own prompt for a real scouting goal they have. Then test it live if you have internet access.
 
----
+--
 ## 6d — Time to Prompt
 ![Scoutly chatbot](scoutly.png)
 
