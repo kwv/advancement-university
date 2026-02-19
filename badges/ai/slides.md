@@ -1047,12 +1047,12 @@ Note: Have scouts write their own prompt for a real scouting goal they have. The
 **Step 3: Implement it**
 - Build it using available tools (ChatGPT API, Teachable Machine, ML5.js, etc.)
 
-**Step 4: Share and discuss with your counselor**
-- What did you build?
-- What worked? What didn't?
-- What would you do differently?
+> **Step 4: Share and discuss with your counselor**
+> - What did you build?
+> - What worked? What didn't?
+> - What would you do differently?
 
-Note: Teachable Machine (teachablemachine.withgoogle.com) by Google lets scouts build image/sound classifiers with zero coding — great for beginners.
+Note: Teachable Machine (teachablemachine.withgoogle.com) by Google lets scouts build image/sound classifiers with zero coding — great for beginners. **Strong counselor discussion:** Scout explains what problem they tried to solve and why AI was the right tool for it, describes what data or prompts they used and how they tested it, and articulates at least one thing that surprised them. Key follow-up questions: "What would make your project better?" and "Where does it fail or produce wrong results?" A scout who can describe the failure modes of their project demonstrates real understanding — knowing where AI breaks down is as important as knowing what it can do.
 
 --
 
@@ -1094,9 +1094,9 @@ Note: Teaching something is the best way to prove you understand it. This option
 - What is the starting salary range?
 - What does career advancement look like?
 
-**Step 3:** Discuss your findings with your counselor.
+> **Step 3:** Discuss your findings with your counselor.
 
-Note: Good AI careers to research: machine learning engineer, data scientist, AI product manager, robotics engineer, NLP engineer, AI ethicist, automation engineer.
+Note: Good AI careers to research: machine learning engineer, data scientist, AI product manager, robotics engineer, NLP engineer, AI ethicist, automation engineer. **Salary benchmarks (2024–2025):** ML Engineer: $110K–$140K entry, $170K–$240K senior. Data Scientist: $90K–$120K entry, $140K–$200K senior. AI Product Manager: $130K–$190K. Robotics Engineer: $95K–$130K entry. **Education:** Most ML/AI roles require at minimum a Bachelor's in CS, math, or statistics; senior research roles often expect a Master's or PhD. Key skills: Python (essential), TensorFlow or PyTorch, SQL, linear algebra, statistics. **Certifications:** Google Professional ML Engineer (~$200), AWS Machine Learning Specialty (~$300), DeepLearning.AI Specialization on Coursera (~$50/month). AI and ML roles are among the highest-paid in all of tech — demand dramatically outpaces supply and will for years.
 
 --
 
@@ -1111,9 +1111,9 @@ Find and interview someone who works in AI or automation.
 - What do you think AI will look like in 10 years?
 - What advice would you give someone my age who's interested in this field?
 
-> Then discuss what you learned with your counselor.
+> **Then discuss what you learned with your counselor.**
 
-Note: LinkedIn is a great resource for finding professionals willing to do informational interviews. Local tech companies, universities, and hospitals are all good starting points.
+Note: LinkedIn is a great resource for finding professionals willing to do informational interviews. Local tech companies, universities, and hospitals are all good starting points. **What a strong discussion looks like:** Scout can share one thing that genuinely surprised them (AI professionals commonly say "most of my job is data cleaning and wrangling, not building models"), one piece of career advice that resonated with them, and their own honest reaction to whether this path interests them. Listen for engagement with the "what will AI look like in 10 years" question — a thoughtful answer here shows the scout is thinking critically, not just completing a checkbox.
 
 --
 

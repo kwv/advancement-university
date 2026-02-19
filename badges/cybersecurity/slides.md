@@ -211,7 +211,7 @@ Note: Have scouts try to categorize the threats they've heard of (ransomware, ph
 
 ![OWASP Juice Shop](owasp-juice-shop.png)
 
----
+--
 
 ## 4a — Three Key Terms
 
@@ -539,12 +539,12 @@ or interactively:
 top
 ```
 
-**Discuss with your counselor:**
-- What processes are running? Do you recognize them all?
-- How would you spot a suspicious process?
-- What would you do if you found something unexpected?
+> **Discuss with your counselor:**
+> - What processes are running? Do you recognize them all?
+> - How would you spot a suspicious process?
+> - What would you do if you found something unexpected?
 
-Note: Sorting by CPU or memory usage can surface suspicious processes. Researching unknown process names is a real investigation skill.
+Note: Sorting by CPU or memory usage can surface suspicious processes. Researching unknown process names is a real investigation skill. **Expected answers:** Normal processes include svchost.exe, explorer.exe, System Idle Process (Windows), or launchd, Finder, WindowServer (macOS). Suspicious signs: unrecognized names, random-looking strings (xkzy.exe), processes claiming to be system files but running from unexpected locations (e.g., Desktop instead of System32), or unusually high CPU/RAM with no obvious cause. **What to do if something looks wrong:** Note the PID, search the process name online, check its file path with `tasklist /v` (Windows) or `lsof -p [PID]` (macOS/Linux), and optionally submit the file hash to VirusTotal.com.
 
 --
 
@@ -566,12 +566,12 @@ or:
 ss -tuln
 ```
 
-**Discuss results:**
-- What external addresses is your computer connected to?
-- Which ports are open and listening?
-- Does anything look unexpected?
+> **Discuss with your counselor:**
+> - What external addresses is your computer connected to?
+> - Which ports are open and listening?
+> - Does anything look unexpected?
 
-Note: Show scouts how to look up an IP address they don't recognize using a WHOIS tool. Seeing a connection to a known ad server vs. an unknown foreign IP tells very different stories.
+Note: Show scouts how to look up an IP address they don't recognize using a WHOIS tool. Seeing a connection to a known ad server vs. an unknown foreign IP tells very different stories. **Common expected connections:** Google (172.217.x.x), Cloudflare (1.1.1.1, 104.x.x.x), Microsoft (13.x.x.x, 52.x.x.x). **Ports to recognize:** 80/443 (web/HTTPS), 53 (DNS), 22 (SSH), 25/587 (email). **Suspicious signs:** Listening ports on unusual numbers (4444 is a classic malware/Metasploit default), ESTABLISHED connections to unfamiliar foreign IPs, or connections that exist even when no apps are open. Use `netstat -b` (Windows) or `lsof -i` (macOS/Linux) to identify which application owns each connection — this is key to separating expected from unexpected.
 
 --
 
@@ -788,10 +788,10 @@ Describe **4 devices** — for each, explain:
 - Risks: video feed can be intercepted if poorly secured; some brands have had mass breaches
 - Protection: strong unique password; two-factor authentication; buy from reputable brands
 
-**🎮 Gaming Console**
-- Useful: online multiplayer, digital purchases, media streaming
-- Risks: stores payment info; mic and camera can be accessed; child accounts may be exposed
-- Protection: parental controls; unique password; review connected app permissions
+**🤖 Robot Vacuum**
+- Useful: automated cleaning schedules, app control, works while you're away
+- Risks: maps your entire home layout; camera-equipped models capture interior video; reveals when the home is occupied
+- Protection: connect to a guest/IoT network; disable camera if unused; review data sharing settings with manufacturer
 
 Note: The Mirai botnet (2016) hijacked 600,000+ IoT devices (mostly cameras and routers) with default passwords and used them to take down a large portion of the internet. Default passwords are the core IoT security failure.
 
@@ -831,10 +831,10 @@ Research a cybersecurity competition or program:
 **SANS CyberStart** (cyberstart.com)
 - Free beginner-friendly cybersecurity training
 
-**Share with your counselor:**
-- What is the competition about?
-- What skills does it build?
-- How could you participate?
+> **Share with your counselor:**
+> - What is the competition about?
+> - What skills does it build?
+> - How could you participate?
 
 Note: CyberPatriot is specifically Scout-friendly and has many BSA-affiliated teams. It's the strongest path forward for scouts who want to go deeper.
 
@@ -849,10 +849,12 @@ Good starting points for beginners:
 - **CyberPatriot** — annual competition season (fall/winter)
 - **SANS CyberStart** — structured beginner program
 
-Discuss your experience with your counselor:
-- What challenges did you attempt?
-- What did you learn that you didn't know before?
-- What would you do differently next time?
+> **Discuss your experience with your counselor:**
+> - What challenges did you attempt?
+> - What did you learn that you didn't know before?
+> - What would you do differently next time?
+
+Note: A strong debrief: scout names specific challenge categories they attempted (web exploitation, cryptography, forensics, reverse engineering, binary exploitation), describes a problem they got stuck on and how they approached it, and can articulate one concept they learned (e.g., SQL injection, base64 encoding, steganography). Not solving challenges is completely fine — focus on what they attempted and the process, not just solved count. picoCTF challenges are archived year-round for practice; CyberPatriot teams typically improve significantly in subsequent seasons.
 
 --
 
@@ -901,9 +903,9 @@ Note: This is an excellent option for scouts who want to work toward the Public 
 - What are the advancement opportunities and long-term career goals?
 - What are the job duties day-to-day?
 
-**Step 3:** Discuss with your counselor.
+> **Step 3:** Discuss with your counselor.
 
-Note: Top certifications to mention: CompTIA Security+, CEH (Certified Ethical Hacker), CISSP, OSCP. Many are achievable as a teenager with self-study.
+Note: Top certifications to mention: CompTIA Security+, CEH (Certified Ethical Hacker), CISSP, OSCP. Many are achievable as a teenager with self-study. **Salary benchmarks (2024–2025):** Security Analyst: $60K–$80K entry, $90K–$120K mid-level. Penetration Tester: $80K–$105K entry, $130K–$180K senior. Incident Responder: $70K–$95K entry. CISO: $180K–$300K+. **Certification costs:** CompTIA Security+ ~$400 exam (achievable with 2–4 months of self-study, no prerequisites, DoD-approved); CEH ~$1,200; OSCP ~$1,500 (most respected for penetration testing roles); CISSP ~$750 exam (requires 5 years experience). **Recommended path for teenagers:** Start with CompTIA A+ or Security+, build a home lab with free tools like VirtualBox and Kali Linux, complete free platforms like TryHackMe or Hack The Box, then pursue OSCP or CEH for specialization.
 
 --
 
@@ -917,9 +919,9 @@ Visit a business or organization that does cybersecurity work.
 - How did team members get their knowledge and credentials?
 - What does a typical incident look like for them?
 
-Then discuss what you learned with your counselor.
+> Then discuss what you learned with your counselor.
 
-Note: Good targets: local banks, hospitals, tech companies, government agencies (FBI, CISA have public outreach programs), and university security research labs.
+Note: Good targets: local banks, hospitals, tech companies, government agencies (FBI, CISA have public outreach programs), and university security research labs. **What a strong counselor discussion looks like:** Scout can name at least 2 specific roles they observed (e.g., SOC analyst, cloud security engineer), describe what a real incident looks like from alert to resolution, and compare their expectations vs. what they actually found. Common surprise for scouts: most security work is monitoring, compliance, and configuration — not active hacking. Key insight to surface: the variety of paths into the field — very few security professionals planned it from the start; many came from IT support, software development, or even non-technical backgrounds.
 
 --
 

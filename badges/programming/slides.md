@@ -160,11 +160,12 @@ Note: This single slide makes the entire history tangible. Let it sink in.
 
 ## Discussion with Your Counselor
 
-Be ready to talk about:
+> Be ready to talk about:
+> - Why did programming languages evolve toward being more human-readable?
+> - What problems did each new language try to solve?
+> - Why do we still have dozens of different languages today instead of just one?
 
-- Why did programming languages evolve toward being more human-readable?
-- What problems did each new language try to solve?
-- Why do we still have dozens of different languages today instead of just one?
+Note: **Key answers to draw out:** (1) Human-readable code reduces bugs and makes teamwork possible — a team of 50 engineers can't collaborate in machine code. (2) Each generation solved the previous era's limits: assembly abstracted raw binary, C enabled portability across machines, C++ added object-oriented structure, Python and Ruby prioritized developer speed over machine speed. (3) No single language dominates because different constraints matter — game engines need C++ performance, data science needs Python's library ecosystem, and JavaScript is locked into browsers by 30 years of history. **Great follow-up:** "If you could design the perfect programming language from scratch today, what would it look like?"
 
 ---
 
@@ -339,6 +340,8 @@ For **each language**, you will:
 5. **Demonstrate** it live to your counselor
 6. **Explain** how it works: inputs, decisions, outputs
 
+> **Demonstrate to your counselor:** Run the program live, fix any errors in real time, and explain the inputs, logic, and outputs.
+
 Note: Counselors — help scouts choose languages at appropriate difficulty levels. Good combos: Python + JavaScript + Scratch, or Python + Java + HTML/CSS.
 
 --
@@ -493,9 +496,9 @@ Pick **one career** in programming and investigate:
 - What are the **day-to-day duties**?
 - What does **career advancement** look like?
 
-Then discuss your findings with your counselor.
+> Then discuss your findings with your counselor.
 
-Note: Good careers to research: software engineer, web developer, game developer, data scientist, DevOps engineer, embedded systems programmer, mobile developer.
+Note: Good careers to research: software engineer, web developer, game developer, data scientist, DevOps engineer, embedded systems programmer, mobile developer. **Salary benchmarks (2024–2025):** Entry-level software engineer: $70K–$95K; mid-level: $110K–$150K; senior: $150K–$220K+. Top tech companies pay $200K–$400K+ including stock. Game developer salaries run 15–20% lower than general software on average, but senior/lead roles at AAA studios are competitive. **Education paths:** CS degree (4 years, $40K–$200K total); coding bootcamp (3–6 months, $10K–$20K); self-taught is fully viable, especially for web/mobile. **Key insight for scouts:** Employers value a strong GitHub portfolio and internship experience far more than certifications for most software roles — what you've built matters more than credentials.
 
 --
 
@@ -519,11 +522,11 @@ How could programming support something you already love?
 - Typical expenses (hardware, software, classes)
 - Organizations and communities you could join
 
-**Then discuss with your counselor:**
-- What **short-term goals** could you achieve in the next 6-12 months?
-- What **long-term goals** might this hobby lead to in 3-5 years?
+> **Then discuss with your counselor:**
+> - What **short-term goals** could you achieve in the next 6-12 months?
+> - What **long-term goals** might this hobby lead to in 3-5 years?
 
-Note: This option is great for scouts who aren't targeting a tech career but want to apply programming to their passions.
+Note: This option is great for scouts who aren't targeting a tech career but want to apply programming to their passions. **Prompts for short-term goals (6–12 months):** "Build a Python script that tracks stats for my sport," "Learn HTML/CSS and build a personal website," "Complete 30 days of coding challenges on LeetCode or Codewars," "Build a Discord bot for my gaming community," "Mod a game I already play." **Long-term (3–5 years):** "Freelance on small web projects," "Build and publish a mobile app," "Contribute to an open-source project I use." Help scouts connect the goal to something they already love — motivation is the hardest part of learning to code, and a real project beats any tutorial.
 
 --
 
