@@ -47,9 +47,10 @@ Note: This video covers important online safety topics. Confirm with scouts that
 <div>
 
 **Symptoms**
-- Wrist pain or aching
-- Tingling or numb fingers
-- Sore neck and shoulders
+- Pain, stiffness, or weakness
+- Swelling, tingling, or numbness
+- Sore neck, shoulders, or arms
+- Sensitivity to cold or heat
 
 </div>
 <div>
@@ -65,6 +66,19 @@ Note: This video covers important online safety topics. Confirm with scouts that
 > Good habits from day one make a huge difference.
 
 Note: Ask scouts: "Have any of you ever had sore wrists or headaches after a long gaming or coding session?" This makes it real.
+
+--
+
+## 1b — RSI: If Symptoms Develop
+
+> Caught early, RSI damage is not permanent.
+
+- 🛑 **Stop** — rest the affected area right away
+- 🧊 Ice can reduce swelling in the short term
+- 🔄 Revisit your setup so the problem doesn't return
+- 🩺 Symptoms that persist or worsen → see a doctor
+
+Note: Keep this brief and reassuring — the message is "this is fixable if you catch it early," not alarm. Most scouts won't have RSI yet; the goal is awareness so they recognize it if it starts.
 
 --
 
@@ -95,6 +109,35 @@ Every **20 min** → look **20 feet** away → for **20 seconds**
 
 Note: Mention f.lux or built-in night mode as practical tools scouts can use today.
 
+--
+
+## 1b — Eyestrain Symptoms & Recovery
+
+<div class="cols">
+<div>
+
+**Symptoms**
+- Sore, tired, burning, or itching eyes
+- Watery or dry eyes
+- Blurred or double vision
+- Headache or light sensitivity
+- Difficulty concentrating
+
+</div>
+<div>
+
+**Recovery**
+- Step away — rest your eyes
+- A consistent sleep schedule helps eyes recover overnight
+- Symptoms that persist → see an eye doctor
+
+</div>
+</div>
+
+> The habits that prevent eyestrain also treat it.
+
+Note: Most eyestrain resolves on its own with rest. The goal is recognition — scouts should know when to step away, not memorize a treatment protocol.
+
 ---
 
 ## Requirement 2
@@ -121,7 +164,8 @@ Note: Let scouts speculate before revealing history. This builds curiosity.
 
 | Year | Milestone |
 |------|-----------|
-| 1843 | 💡 Ada Lovelace writes the first algorithm |
+| 1843 | 💡 Ada Lovelace writes "Note G" — the first algorithm, for Babbage's Analytical Machine |
+| 1952 | Autocode — the first compiled language; COBOL and FORTRAN soon follow |
 | 1972 | C released — still powers most of the world's systems |
 | 1991 | 💡 Python — designed for readability and ease of use |
 | 1995 | JavaScript — the language that makes the web interactive |
@@ -237,6 +281,7 @@ Note: Push scouts beyond obvious devices before advancing. Almost everything ele
 **📜 Patent**
 - Protects an invention or novel method
 - Must be applied for — expensive and slow
+- Lasts **20 years** from the filing date; no automatic renewal
 - Example: a new compression algorithm or data structure
 
 > Ask yourself: "Which type automatically protects the code you write for this badge?" (Copyright!)
@@ -249,6 +294,7 @@ Note: Ask scouts: "Which type automatically protects the code you write for this
 
 **™️ Trademark**
 - Protects names, logos, and brands
+- Lasts **indefinitely** as long as it's actively used and renewed
 - Example: the Python logo, the name "Java"
 
 **🤫 Trade Secret**
