@@ -181,24 +181,28 @@ Note: Have scouts identify the milestones they find most interesting and explain
 
 ## How Far We've Come
 
-**Machine code (1940s) — binary:**
+All three store the same value: **97 — the ASCII code for the letter 'a'**
+
+**Machine code (1940s) — raw binary the CPU reads directly:**
 ```
 10110000 01100001
 ```
+*`10110000` = "load a byte" instruction · `01100001` = 97 in binary*
 
-**Assembly (1950s) — human-readable mnemonics:**
+**Assembly (1950s) — human-readable names for the same bytes:**
 ```asm
-MOV AL, 61h
+MOV AL, 61h   ; MOV=store  AL=a CPU register  61h=97 in hex
 ```
 
 **Python (today) — almost plain English:**
 ```python
-print("Hello, World!")
+letter = 97   # store the value 97 in a variable named "letter"
+              # no register names, no hex — just a name and a value
 ```
 
-> Same instruction to the computer. Three very different ways to write it.
+> Same result. The CPU still executes binary either way — Python just hides all of that from you.
 
-Note: This single slide makes the entire history tangible. Let it sink in.
+Note: Point out that writing "Hello, World!" in assembly takes 15+ lines of code. Python does it in one. That gap in complexity is exactly why higher-level languages exist.
 
 --
 
