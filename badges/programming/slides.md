@@ -398,9 +398,9 @@ Note: Ask scouts: "Before I show you examples — where do you think you've alre
 
 **Concept:**
 ```
-SET score TO 0
-SET name TO "Alice"
-SET score TO score + 10   → score is now 10
+score starts at 0
+name is "Alice"
+add 10 to score  →  score is now 10
 ```
 
 **In Python:**
@@ -420,13 +420,9 @@ Note: "What variables would a game need?" — score, lives, player name, current
 
 **Concept:**
 ```
-IF score >= 100 THEN
-    display "You win!"
-ELSE IF score > 0 THEN
-    display "Keep going!"
-ELSE
-    display "No score yet."
-END IF
+if score is 100 or more  →  show "You win!"
+if score is above 0      →  show "Keep going!"
+otherwise                →  show "No score yet."
 ```
 
 **In Python:**
@@ -449,13 +445,11 @@ Note: "Your phone's autocorrect uses thousands of these — every 'if this word,
 
 **Concept:**
 ```
-REPEAT 5 TIMES
-    display "Lap " + count
-END REPEAT
+do this 5 times:
+    show "Lap " + the current count
 
-WHILE score < 100
-    SET score TO score + 1
-END WHILE
+keep doing this until score reaches 100:
+    add 1 to score
 ```
 
 **In Python:**
@@ -477,12 +471,11 @@ Note: "What would break if a game had no loops?" — nothing keeps running, no a
 
 **Concept:**
 ```
-DEFINE greet(name)
-    display "Hello, " + name
-END DEFINE
+to greet someone:
+    show "Hello, " + their name
 
-CALL greet("Alice")   → Hello, Alice
-CALL greet("Bob")     → Hello, Bob
+greet "Alice"  →  Hello, Alice
+greet "Bob"    →  Hello, Bob
 ```
 
 **In Python:**
