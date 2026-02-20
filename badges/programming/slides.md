@@ -377,6 +377,129 @@ The main event.
 
 --
 
+## The Four Building Blocks
+
+Every program — in every language — is built from the same four ideas:
+
+| Primitive | What it does |
+|-----------|-------------|
+| **Variable** | Stores a value so your program can use it later |
+| **Conditional** | Makes a decision — do one thing *or* another |
+| **Loop** | Repeats a block of code |
+| **Function** | Packages code so you can reuse it by name |
+
+> You don't need much else. Most programs are just these four things combined.
+
+Note: Ask scouts: "Before I show you examples — where do you think you've already seen each of these? In a game, a calculator, an app?" Get them connecting the abstract idea to something they know.
+
+--
+
+## Variables — Naming and Storing Values
+
+**Concept:**
+```
+SET score TO 0
+SET name TO "Alice"
+SET score TO score + 10   → score is now 10
+```
+
+**In Python:**
+```python
+score = 0
+name  = "Alice"
+score = score + 10
+```
+
+> A variable is a labeled box — put a value in, give it a name, read or update it later. Without variables, a program forgets everything between steps.
+
+Note: "What variables would a game need?" — score, lives, player name, current level. Every one of those is just a named box holding a value.
+
+--
+
+## Conditionals — Branching Logic
+
+**Concept:**
+```
+IF score >= 100 THEN
+    display "You win!"
+ELSE IF score > 0 THEN
+    display "Keep going!"
+ELSE
+    display "No score yet."
+END IF
+```
+
+**In Python:**
+```python
+if score >= 100:
+    print("You win!")
+elif score > 0:
+    print("Keep going!")
+else:
+    print("No score yet.")
+```
+
+> The program takes one path or another based on data — this is what the badge means by "decision-making."
+
+Note: "Your phone's autocorrect uses thousands of these — every 'if this word, suggest that word' is a branch."
+
+--
+
+## Loops — Repeating Without Repeating Yourself
+
+**Concept:**
+```
+REPEAT 5 TIMES
+    display "Lap " + count
+END REPEAT
+
+WHILE score < 100
+    SET score TO score + 1
+END WHILE
+```
+
+**In Python:**
+```python
+for i in range(5):
+    print("Lap", i + 1)
+
+while score < 100:
+    score = score + 1
+```
+
+> Without loops, printing 1,000 lines means writing 1,000 lines of code. Every game runs inside a loop that never stops until you quit.
+
+Note: "What would break if a game had no loops?" — nothing keeps running, no animation, no waiting for input.
+
+--
+
+## Functions — Reusable, Named Code
+
+**Concept:**
+```
+DEFINE greet(name)
+    display "Hello, " + name
+END DEFINE
+
+CALL greet("Alice")   → Hello, Alice
+CALL greet("Bob")     → Hello, Bob
+```
+
+**In Python:**
+```python
+def greet(name):
+    print("Hello, " + name + "!")
+
+greet("Alice")
+greet("Bob")
+```
+
+> Write it once, use it anywhere. Functions keep programs organized and avoid copy-pasting the same code in ten places.
+
+Note: A function is a recipe — written once, followed with different ingredients each time. "What functions might a game have?" — move_player, check_collision, add_score, game_over.
+
+--
+
 ## What You Need to Do
 
 Work with your counselor to select **3 different programming languages** and development environments.
